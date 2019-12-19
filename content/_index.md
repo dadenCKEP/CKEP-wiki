@@ -14,8 +14,9 @@ draft: false
 1. master branchにdocs以下をもってくる
     1. `git stash push -u`
     1. `checkout master`
-    1. `rm docs -rf`
+    1. `rm docs -rf` (Windows: `rd /s docs`)
     1. `git stash pop stash@{0}`
+    1. `git add docs`
     1. `git commit -m "generated contents"`
     1. `git push`
 
