@@ -3,7 +3,6 @@ title: "Machines"
 date: 2019-12-18T22:46:13+09:00
 draft: falsel
 ---
-# Machines
 自宅設備のメモなど。これを保管するためにwikiがあるみたいなところがある。各セットアップの情報などは個別にまとめる(予定)。
 
 ## 外部
@@ -36,9 +35,9 @@ draft: falsel
 * サーバー
 * (Archer C3150)
     * HP Compaq Business Desktop dc5800 SF/CT(有線: 192.168.11.17)(86-server)  
-    http://jp.ext.hp.com/products/desktops/old/dc5800sf_ct/core_duo_model.html  
+    http://jp.ext.hp.com/products/desktops/old/dc5800sf_ct/core_duo_model.html (リンク切れ)  
     ジャンクショップで購入。E7300が載ってる版。メモリだけ差し替わってた。HDDは差し替えた。  
-    x86の鯖でしかできない実験用。当分はdockerとelastic stack関係が載ると思う。
+    x86の鯖でしかできない実験用。当分はdockerとelastic stack関係が載ると思う。現在停止中。
     * 自作機(無線: 192.168.11.31)  
     以前のメイン機。CentOSが入れてある。主にゲームサーバー用。最近全く使っていない。
 * その他
@@ -49,4 +48,3 @@ draft: falsel
     温度・湿度・気圧・二酸化炭素濃度の計測(24h/15min)
     * メインPC(192.168.11.30)
     * Google Nest Hub
-    <!-- * Google Home mini(メインルーム)-->
