@@ -12,8 +12,7 @@ draft: false
 1. src/master branchのcontent以下を更新
 1. `hugo --gc --minify`
 1. master branchにdocs以下をもってくる
-    1. `git add docs`
-    1. `git stash push`
+    1. `git stash push -u`
     1. `checkout master`
     1. `rm docs -rf`
     1. `git stash pop stash@{0}`
