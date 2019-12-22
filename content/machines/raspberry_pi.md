@@ -14,6 +14,7 @@ Raspberry Piのn回目のセットアップ用簡易ガイド
     * ACアダプタ  
         * 安いほう: http://akizukidenshi.com/catalog/g/gM-10660/
         * 高いほう: http://akizukidenshi.com/catalog/g/gM-06238/
+        * 分岐ケーブル: https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0A6P
     * 拡張基板: http://akizukidenshi.com/catalog/g/gP-11073/
         * ピンソケット: http://akizukidenshi.com/catalog/g/gC-00085/  
         スタック用もあるらしい: http://akizukidenshi.com/catalog/g/gC-10702/
