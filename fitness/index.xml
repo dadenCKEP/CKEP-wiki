@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fitness on dadenCKEP-wiki</title><link>https://wiki.ckep.info/fitness/</link><description>Recent content in Fitness on dadenCKEP-wiki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Fri, 03 Jan 2020 22:27:28 +0900</lastBuildDate><atom:link href="https://wiki.ckep.info/fitness/index.xml" rel="self" type="application/rss+xml"/><item><title>Device</title><link>https://wiki.ckep.info/fitness/device/</link><pubDate>Sat, 04 Jan 2020 04:57:45 +0900</pubDate><guid>https://wiki.ckep.info/fitness/device/</guid><description>持ってる / 持ってたフィットネスデバイス
+Mi Smart Band 4 仕様 メーカー: Xiaomi
+公式URL: https://www.mi.com/jp/mi-smart-band-4/
+参考価格: 3839円 (2020/1/3, Amazon)
+公式アプリ: Mi Fit
+搭載センサ: 3軸加速度計, 3軸ジャイロスコープ, PPG心拍センサ, 静電容量式近接センサ
+防水: 50m (GB/T 30106-2013)
+外部連携: 可(サーバー経由ペアリング有)
+資料 対応アプリ Tools &amp;amp; Mi Band
+有料だが余計な表示がなくて良い。言語設定を変えないとデバイスの言語設定を強制的に上書きする。 Mi Bandage for Mi Band and Amazfit Notify &amp;amp; Fitness for Mi Band Gadgetbridge
+デバイスがサーバ経由のペアリングを行うのでroot化が必要とある。どうもそれ以外のアプリは公式アプリ経由で操作している？ 連携先 Google Fit
+出力のみ Sleep as Android
+Tools &amp;amp; Mi BandかNotify &amp;amp; Fitness for Mi Bandが必要</description></item></channel></rss>
