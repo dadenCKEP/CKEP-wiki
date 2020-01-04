@@ -8,13 +8,13 @@ draft: false
 
 ## Mi Smart Band 4
 ### 仕様
-メーカー: Xiaomi  
-公式URL: https://www.mi.com/jp/mi-smart-band-4/  
-参考価格: 3839円 (2020/1/3, Amazon)  
-公式アプリ: [Mi Fit](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health)  
-搭載センサ: 3軸加速度計, 3軸ジャイロスコープ, PPG心拍センサ, 静電容量式近接センサ  
-防水: 50m (GB/T 30106-2013)  
-外部連携: 可(サーバー経由ペアリング有)
+* メーカー: Xiaomi
+* 公式URL: https://www.mi.com/jp/mi-smart-band-4/
+* 参考価格: 3839円 (2020/1/3, Amazon)
+* 公式アプリ: [Mi Fit](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health)
+* 搭載センサ: 3軸加速度計, 3軸ジャイロスコープ, PPG心拍センサ, 静電容量式近接センサ
+* 防水: 50m (GB/T 30106-2013)
+* 外部連携: 可(サーバー経由ペアリング有)
 
 ### 資料
 #### 対応アプリ
