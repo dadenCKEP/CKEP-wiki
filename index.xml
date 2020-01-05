@@ -1,12 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>top page on dadenCKEP-wiki</title><link>https://wiki.ckep.info/</link><description>Recent content in top page on dadenCKEP-wiki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Wed, 18 Dec 2019 16:13:53 +0900</lastBuildDate><atom:link href="https://wiki.ckep.info/index.xml" rel="self" type="application/rss+xml"/><item><title>Device</title><link>https://wiki.ckep.info/fitness/device/</link><pubDate>Sat, 04 Jan 2020 04:57:45 +0900</pubDate><guid>https://wiki.ckep.info/fitness/device/</guid><description>持ってる / 持ってたフィットネスデバイス
-Mi Smart Band 4 仕様 メーカー: Xiaomi
-公式URL: https://www.mi.com/jp/mi-smart-band-4/
-参考価格: 3839円 (2020/1/3, Amazon)
-公式アプリ: Mi Fit
-搭載センサ: 3軸加速度計, 3軸ジャイロスコープ, PPG心拍センサ, 静電容量式近接センサ
-防水: 50m (GB/T 30106-2013)
-外部連携: 可(サーバー経由ペアリング有)
-資料 対応アプリ Tools &amp;amp; Mi Band
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>top page on dadenCKEP-wiki</title><link>https://wiki.ckep.info/</link><description>Recent content in top page on dadenCKEP-wiki</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Wed, 18 Dec 2019 16:13:53 +0900</lastBuildDate><atom:link href="https://wiki.ckep.info/index.xml" rel="self" type="application/rss+xml"/><item><title>Google Fit</title><link>https://wiki.ckep.info/fitness/google_fit/</link><pubDate>Sat, 04 Jan 2020 13:06:46 +0900</pubDate><guid>https://wiki.ckep.info/fitness/google_fit/</guid><description>概要 公式アプリ: Google Fit 紹介ページ: Google Fit
+以前はウェブインターフェースがあったが廃止された 公式ドキュメント: The Google Fit SDK Google Fitの思想(勝手な予想)について Google Fitは他のデバイスメーカー・アプリメーカーの自社プラットフォームとは明確に意図(思想)が違い、「自社のデバイスのデータを集積して利用するのが主な目的で、ついでに連携先のプラットフォームに送信・連携先のデータを利用する」のではなく、「Google Fitを利用するアプリは、全てのデータをGoogle Fitに保存し、必要に応じて全てのデータをGoogle Fitから取り出して利用する」という意図がある。 つまり、「可能な限りすべてのデータを保存し、可能な限りGoogle Fit上のデータを利用する」必要がある。
+例えば身長・体重のデータはGoogle Fit上に保存できるため、「設定欄で身長・体重をプラットフォーム独自の設定として利用できる」というのは不適切である。(参考: Fitness Data Types | Google Fit ) 意図に合わせるのであれば、「身長・体重を一定期間ごとにGoogle Fitから取得して利用し、必要であれば現在の身長・体重の値をGoogle Fitに手動送信して初期値とすることができる」とすべきである。
+上記を踏まえて手持ちのデバイスのデータを整理して格納する (検討中)</description></item><item><title>Device</title><link>https://wiki.ckep.info/fitness/device/</link><pubDate>Sat, 04 Jan 2020 04:57:45 +0900</pubDate><guid>https://wiki.ckep.info/fitness/device/</guid><description>持ってる / 持ってたフィットネスデバイス
+Mi Smart Band 4 仕様 メーカー: Xiaomi 公式URL: https://www.mi.com/jp/mi-smart-band-4/ 参考価格: 3839円 (2020/1/3, Amazon) 公式アプリ: Mi Fit 搭載センサ: 3軸加速度計, 3軸ジャイロスコープ, PPG心拍センサ, 静電容量式近接センサ 防水: 50m (GB/T 30106-2013) 外部連携: 可(サーバー経由ペアリング有) 資料 対応アプリ Tools &amp;amp; Mi Band
 有料だが余計な表示がなくて良い。言語設定を変えないとデバイスの言語設定を強制的に上書きする。 Mi Bandage for Mi Band and Amazfit Notify &amp;amp; Fitness for Mi Band Gadgetbridge
 デバイスがサーバ経由のペアリングを行うのでroot化が必要とある。どうもそれ以外のアプリは公式アプリ経由で操作している？ 連携先 Google Fit
 出力のみ Sleep as Android
