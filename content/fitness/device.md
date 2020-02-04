@@ -30,3 +30,17 @@ draft: false
 出力のみ
 * [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep&hl=ja)  
 Tools & Mi BandかNotify & Fitness for Mi Bandが必要
+
+## Body Cardio
+### 仕様
+* メーカー: Withings (Withings→Nokia→Withings)
+* 公式URL: https://www.withings.com/jp/ja/body-cardio
+* 参考価格: 18557円 (2020/2/4, Amazon)
+* 公式アプリ: [Health Mate](https://play.google.com/store/apps/details?id=com.withings.wiscale2)
+* 搭載センサ: 体重測定(体重センサー4基), 体組成(生体電気インピーダンス解析: 体脂肪, 体内総水分量, 筋肉量, 骨量), 心拍数
+* 外部連携: 可(サーバー経由ペアリング有), Wi-Fi, Bluetooth
+
+### 資料
+#### 連携先
+* [Withings Dashboard](https://healthmate.withings.com/)
+* APIあり
