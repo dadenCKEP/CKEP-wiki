@@ -27,6 +27,8 @@ Raspberry Piのn回目のセットアップ用簡易ガイド
 適当にはんだ付けして利用。Raspberry Pi2-4まで同じようにできるはず。
 
 ## セットアップ編
+Raspbian Stretch時点でのフロー。更新の際に一部変更になることがある。
+過去にあった変更としては、hostnameの設定方法やIP固定の手順などが変更になっている。
 1. [https://www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)からimageをDL
 1. 念のため[SD Memory Card Formatter](https://www.sdcard.org/jp/downloads/formatter/)で消去して[Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/)で書き込み
 1. `/boot/ssh` というファイルを作成する。  
