@@ -22,15 +22,19 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
 
 ## テクスチャ関連
 * [TexTools](http://renderhjs.net/textools/blender/)
+  * 非公式2.8対応版: https://github.com/SavMartin/TexTools-Blender (OSSだし非公式とは…)
 
 ## MithTools関連
 * https://github.com/mifth/mifthtools  
-  MiraToolsなど
+  * MiraTools - https://blenderartists.org/t/miratools/637385
+  * MifthTools - https://blenderartists.org/t/mifthtools-addon/619227
 
 ## 標準プラグイン
-* Archimesh
 * Archipack
+* Archimesh
 * Auto Mirror
   * [Blender Addon : Auto Mirror [Blender2.8ver]](https://gumroad.com/l/vgRSB)  
     有志2.8対応版
+* Extra Objects
+  * CurveとMeshの2つがある
 * F2
