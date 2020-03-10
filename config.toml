@@ -37,3 +37,6 @@ home = ["HTML", "RSS", "JSON"]
   ordersectionsby = "weight"
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "green"
+
+  # google Analytics
+  googleAnalytics = "UA-36940642-11"
