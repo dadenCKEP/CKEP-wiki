@@ -38,3 +38,4 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
 * Extra Objects
   * CurveとMeshの2つがある
 * F2
+* LoopTools
