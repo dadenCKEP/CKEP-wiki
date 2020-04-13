@@ -34,6 +34,10 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
   * MiraTools - https://blenderartists.org/t/miratools/637385
   * MifthTools - https://blenderartists.org/t/mifthtools-addon/619227
 
+## 有料プラグイン
+* [Simply Cloth](https://gumroad.com/l/vpzMx)
+  * https://modelinghappy.com/archives/25222
+
 ## 標準プラグイン
 * Archipack
 * Archimesh
