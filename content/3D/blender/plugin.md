@@ -37,6 +37,7 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
 ## 有料プラグイン
 * [Simply Cloth](https://gumroad.com/l/vpzMx)
   * https://modelinghappy.com/archives/25222
+* [Voxel Heat Diffuse Skinning](https://blendermarket.com/products/voxel-heat-diffuse-skinning)
 
 ## 標準プラグイン
 * Archipack
