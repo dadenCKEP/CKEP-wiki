@@ -45,6 +45,7 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
 * Auto Mirror
   * [Blender Addon : Auto Mirror [Blender2.8ver]](https://gumroad.com/l/vgRSB)  
     有志2.8対応版
+* Cell Fracture
 * Extra Objects
   * CurveとMeshの2つがある
 * F2
