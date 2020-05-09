@@ -39,6 +39,10 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
   * https://modelinghappy.com/archives/25222
 * [Voxel Heat Diffuse Skinning](https://blendermarket.com/products/voxel-heat-diffuse-skinning)
 
+## リトポ関連
+* [EdgeFlow](https://github.com/BenjaminSauder/EdgeFlow)
+* [Poly Source](https://gumroad.com/derksen#mNvmS)
+
 ## 標準プラグイン
 * Archipack
 * Archimesh
