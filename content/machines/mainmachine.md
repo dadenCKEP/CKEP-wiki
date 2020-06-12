@@ -8,16 +8,24 @@ draft: true
 
 ## 本体
 * ケース
-* HDD
-* SSD
-* メモリ
-* マザーボード
 * 電源
+* マザーボード
+* CPU
+* HDD
+  * a
+* SSD
+  * a
+* メモリ
+  * a
+* GPU
+* その他
 
 
 ## ディスプレイ
-* a
-* b
+* (no data)
+* Lenovo G24-10(65FDGAC2JP)
+  * https://www.lenovo.com/jp/ja/accessories-and-monitors/monitors/gaming/G24-10C19236FY023-6inch-Monitor-HDMI/p/65FDGAC2JP
+  * 購入: 2020/06/01
 
 ## 周辺機器
 * キーボード
