@@ -8,6 +8,8 @@ draft: false
 
 ## 歴代のキーボードリスト
 ### Helix Custom(#1)
+https://daden.ckep.info/project/helix-ckep/
+
 とりあえず[Helix](https://github.com/MakotoKurauchi/helix)を作って自分のキーマップを入れた。
 キットが入手できなかったため非常に割高に。
 入手性を重視したため部分的にパーツを変更している。
@@ -34,7 +36,6 @@ draft: false
 * TALP KEYBOARD
   * https://talpkeyboard.stores.jp/
   * キーボード関連が全体的にある
-  * 特にキャップが充実している
 * ELECROW
   * https://www.elecrow.com/
   * 基板やアクリルのレーザーカットができる

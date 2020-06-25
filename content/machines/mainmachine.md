@@ -54,9 +54,7 @@ draft: false
 
 ## 周辺機器
 * キーボード
-  * Helix(カスタム)
-    * https://daden.ckep.info/project/helix-ckep/
-    * https://github.com/MakotoKurauchi/helix
+  * → [/machines/keyboard](/machines/keyboard)
 * マウス
   * logicool SE-M705
   * 購入: 2019/03/06
