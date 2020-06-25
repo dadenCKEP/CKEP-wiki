@@ -39,3 +39,11 @@ draft: false
   * https://www.elecrow.com/
   * 基板やアクリルのレーザーカットができる
   * キットが手に入らない場合や改造の際はこちらを利用
+* ダイアテック
+  * https://www.diatec.co.jp/shop/list.php?s[]=100:1005:10240
+    * cherry mxのキースイッチが購入できる。緑、シルバー、クリア、サイレント系もある。
+  * https://www.diatec.co.jp/products/list.php?s[]=100:1002:10009
+      * カレンダーキーキャップもある。
+* ジェイダブルシステム
+  * https://www.jw-shop.com/P-keyboard-mswitch10/page45/detail.htm
+  * cherry mxのキースイッチが購入できる。クリアがある。
