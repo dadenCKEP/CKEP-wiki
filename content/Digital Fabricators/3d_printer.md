@@ -9,6 +9,7 @@ draft: false
 * 3Dプリンタが欲しい
 * 理想を言えばCNC・レーザーカッターの足がかりにしたい
   * この条件を考えると光造形じゃなくてFDMになる
+  * ペンプロッタも便利そう(使うかどうかは別)
 * RepRapシリーズが良さそう
   * 資料・価格をもとに候補モデルを絞る
   * 価格と場所を考慮
@@ -18,6 +19,8 @@ draft: false
 
 ### 候補
 * Prusa i3 MK3S
+  * https://reprap.org/wiki/Prusa_i3_MK3
+  * https://www.prusa3d.jp/
   * (約)475x410
     * 場所はどっちでも問題なさそう
   * キットが高いがクローンが大量にある
@@ -26,6 +29,20 @@ draft: false
       * 安い(送料込み4万程度で公式の半額相当)
   * 資料も多い
 
+### フィラメント
+
+
 ### 設置場所と設備
 * 電子レンジ用の棚とかよさそう
   * https://www.nitori-net.jp/ec/product/8890900s/
+
+## 資料
+### 汎用
+* 3Dプリンタは作れる！ 自作3Dプリンタを組み立てよう
+  * https://fabcross.jp/category/make/20140604_reprap_01.html
+  * reprapシリーズぽい
+* 3Dプリンタを改造しよう！——よりきれいに造形できるファンダクト
+  * https://fabcross.jp/category/make/20150612_bs01_plus_01.html
+### Prusa i3
+* Prusa i3 mk3s + mmu2s ようやく動く
+  * http://ocean.opal.ne.jp/blog/?p=1647
