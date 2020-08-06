@@ -38,6 +38,12 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
 * [Simply Cloth](https://gumroad.com/l/vpzMx)
   * https://modelinghappy.com/archives/25222
 * [Voxel Heat Diffuse Skinning](https://blendermarket.com/products/voxel-heat-diffuse-skinning)
+  * http://www.mesh-online.net/voxel.html
+* [Better Fbx Importer & Exporter](https://blendermarket.com/products/better-fbx-importer--exporter)
+  * http://www.mesh-online.net/fbx.html
+* [Auto-Rig Pro](https://blendermarket.com/products/auto-rig-pro)
+  * http://www.lucky3d.fr/auto-rig-pro/doc/
+* [Pro Align Tools](https://blendermarket.com/products/pro-align-tools)
 
 ## リトポ関連
 * [EdgeFlow](https://github.com/BenjaminSauder/EdgeFlow)
