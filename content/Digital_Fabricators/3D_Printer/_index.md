@@ -4,48 +4,26 @@ date: 2020-07-19T00:12:45+09:00
 draft: false
 ---
 
-## 選定
-### 条件
-* 3Dプリンタが欲しい
-* 理想を言えばCNC・レーザーカッターの足がかりにしたい
-  * この条件を考えると光造形じゃなくてFDMになる
-  * ペンプロッタも便利そう(使うかどうかは別)
-* RepRapシリーズが良さそう
-  * 資料・価格をもとに候補モデルを絞る
-  * 価格と場所を考慮
-  * ベッドの近くが545x670
-    * うるさいかもしれない
-  * 冷蔵庫の近くが535x445
-
-### 候補
-* Prusa i3 MK3S
-  * https://reprap.org/wiki/Prusa_i3_MK3
-  * https://www.prusa3d.jp/
-  * (約)475x410
-    * 場所はどっちでも問題なさそう
-  * キットが高いがクローンが大量にある
-    * 例: https://ja.aliexpress.com/item/33022178159.html
-    * 例2: https://ja.aliexpress.com/item/33020493926.html
-      * 安い(送料込み4万程度で公式の半額相当)
-  * 資料も多い
-  * 購入・到着待ち
-
-### フィラメント
+## フィラメント
 * Polymakerのフィラメントがよさそうだが少し高い
   * https://www.poly-maker.jp/
   * 安いやつの2倍くらい
 * Amazonで2000円/1kgを目安に探したい
 
-### フィラメント乾燥機
+## フィラメント乾燥機
 * 自作検討中
+* 温度・湿度を長時間一定に保つ必要があるらしい
 * 幸いにも布団乾燥機も除湿機もあるのでスプールがおさまる容器を加工する？
-#### 資料
+  * 靴を乾燥させるためのアダプタがあるので形状はそれを参考にできる
+* 湿度は再利用可能な乾燥剤を入れておけば問題ない？
+
+### 資料
 * ３Dプリンターのフィラメントの湿気対策その２　スプールホルダーに除湿バッグを取り付けた
   * https://dreamerdream.hateblo.jp/entry/2019/06/30/120000
 * フィラメントドライヤー「PrintDry」とドライフルーツメーカー(MA-670-RY)の違い検証
   * https://appletechlab.jp/blog-entry-2572.html
 
-### 設置場所と設備
+## 設置場所と設備
 * 電子レンジ用の棚とかよさそう
   * https://www.nitori-net.jp/ec/product/8890900s/
 * プリンタ台なるものがあった
@@ -61,10 +39,3 @@ draft: false
   * reprapシリーズぽい
 * 3Dプリンタを改造しよう！——よりきれいに造形できるファンダクト
   * https://fabcross.jp/category/make/20150612_bs01_plus_01.html
-### Prusa i3
-* Prusa i3 mk3s + mmu2s ようやく動く
-  * http://ocean.opal.ne.jp/blog/?p=1647
-* Original Prusa i3 MK3/S のアップグレードまとめ
-  * https://satt99.hatenablog.com/entry/2020/01/13/124955
-* Clone PRUSA 備忘録
-  * http://www002.upp.so-net.ne.jp/hard-and-soft/Clone_Prusa/Clone_Prusa.html
