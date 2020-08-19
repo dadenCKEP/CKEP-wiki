@@ -21,3 +21,5 @@ draft: false
   * https://satt99.hatenablog.com/entry/2020/01/13/124955
 * Clone PRUSA 備忘録
   * http://www002.upp.so-net.ne.jp/hard-and-soft/Clone_Prusa/Clone_Prusa.html
+* Prusa MK3sの簡単・便利・安価なアップグレード
+  * https://qiita.com/yosuke_y2/items/2b5ef2cdee3d56fdbcfc

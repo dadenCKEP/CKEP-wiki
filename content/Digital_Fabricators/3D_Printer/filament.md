@@ -8,11 +8,17 @@ draft: false
 * Polymakerのフィラメントがよさそうだが少し高い
   * https://www.poly-maker.jp/
   * 安いやつの2倍くらい
-* Prusamentのフィラメントは高品質だがAmazonには一部しかない
+* Prusamentのフィラメントは高品質だがAmazonには一部しかない。輸入できる。
   * https://prusament.com/
   * 2巻以上買えば輸入してもそこそこ安い(PLAで$30+送料が$30程度で2-5日)
 * Amazonで2000円/1kgを目安に探したい
   * 失敗だった…
+
+## 洗浄用フィラメント
+軟化はするけど溶融しないフィラメント。炭化したフィラメントやカスが残りやすいフィラメントの後に使うらしい。
+* Dyna-Purge 3D Clean
+  * https://3dfs.idarts.co.jp/items/4241057
+  * 買ったのでしばらく使ってから評価する
 
 ### 資料
 * スペックシートのある良いフィラメントを探す PLA/ABS/PETG
