@@ -25,3 +25,9 @@ draft: false
   * reprapシリーズぽい
 * 3Dプリンタを改造しよう！——よりきれいに造形できるファンダクト
   * https://fabcross.jp/category/make/20150612_bs01_plus_01.html
+* 3Dプリンタ買っちゃいました
+  * https://www.itmedia.co.jp/news/series/20165/
+* JET工房　DIYな日々
+  * http://jetnasa.jp/
+* FIGROBOKOUBOU
+  * http://figrobo.blog.fc2.com/
