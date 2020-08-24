@@ -5,11 +5,12 @@ draft: false
 ---
 
 ## 設置場所と設備
-* 電子レンジ用の棚とかよさそう
-  * https://www.nitori-net.jp/ec/product/8890900s/
 * プリンタ台なるものがあった
   * https://www.amazon.co.jp/gp/product/B06XFRGPW5/
   * これにした
+* Prusa i3 MK3Sに関してはコミュニティ製のエンクロージャがある
+  * https://blog.prusaprinters.org/cheap-simple-3d-printer-enclosure_7785/
+  * IKEAのLACKというサイドテーブルを2-3個使って棚+エンクロージャを作れる。
 
 ## 主な調達先
 ※フィラメント関連は該当ページへ

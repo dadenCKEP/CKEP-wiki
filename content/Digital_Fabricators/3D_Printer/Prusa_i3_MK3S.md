@@ -14,6 +14,12 @@ draft: false
       * 安い(送料込み4万程度で公式の半額相当)
   * 資料も多い
 
+## V6
+* V6はPrusa i3 MK3Sに使用されている汎用性の高いホットエンド。
+  * Prusa i3 MK3Sのものはここから購入できる: https://e3d-online.com/products/prusa-v6-hotend
+  * 資料: https://e3d-online.dozuki.com/c/V6
+    * 公式以外から購入したor修理などの場合は自力組み立てが必要。その際は上の資料を見る。
+
 ## 資料
 * Prusa i3 mk3s + mmu2s ようやく動く
   * http://ocean.opal.ne.jp/blog/?p=1647
