@@ -14,8 +14,8 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
     * https://github.com/powroupi/blender_mmd_tools こっちのほうがよい？
   * [material-combiner-addon](https://github.com/Grim-es/material-combiner-addon)  
     マテリアル統合に必要
-  * [VRM_IMPORTER_for_Blender2.8](https://github.com/iCyP/VRM_IMPORTER_for_Blender2_8)  
-    VRMインポートに必要
+  * [VRM_IMPORTER_for_Blender](https://github.com/saturday06/VRM_IMPORTER_for_Blender)  
+    VRMインポートに必要(catsの対応は0.17.0の1つ後から)
 
 ## ウェイト関連
 * [Blenderでウェイトのない頂点グループをすべて削除する](https://scrapbox.io/keroxp/Blender%E3%81%A7%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%81%AE%E3%81%AA%E3%81%84%E9%A0%82%E7%82%B9%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%92%E3%81%99%E3%81%B9%E3%81%A6%E5%89%8A%E9%99%A4%E3%81%99%E3%82%8B)
@@ -35,15 +35,16 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
   * MifthTools - https://blenderartists.org/t/mifthtools-addon/619227
 
 ## 有料プラグイン
+* [Auto-Rig Pro](https://blendermarket.com/products/auto-rig-pro)
+  * http://www.lucky3d.fr/auto-rig-pro/doc/
+* [Better Fbx Importer & Exporter](https://blendermarket.com/products/better-fbx-importer--exporter)
+  * http://www.mesh-online.net/fbx.html
+  * 主にインポート用。Maya等で作成したFBXファイルを正しく読むことができる。
+* [Pro Align Tools](https://blendermarket.com/products/pro-align-tools)
 * [Simply Cloth](https://gumroad.com/l/vpzMx)
   * https://modelinghappy.com/archives/25222
 * [Voxel Heat Diffuse Skinning](https://blendermarket.com/products/voxel-heat-diffuse-skinning)
   * http://www.mesh-online.net/voxel.html
-* [Better Fbx Importer & Exporter](https://blendermarket.com/products/better-fbx-importer--exporter)
-  * http://www.mesh-online.net/fbx.html
-* [Auto-Rig Pro](https://blendermarket.com/products/auto-rig-pro)
-  * http://www.lucky3d.fr/auto-rig-pro/doc/
-* [Pro Align Tools](https://blendermarket.com/products/pro-align-tools)
 
 ## リトポ関連
 * [EdgeFlow](https://github.com/BenjaminSauder/EdgeFlow)
@@ -60,3 +61,6 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
   * CurveとMeshの2つがある
 * F2
 * LoopTools
+* Modifier Tools
+  * https://docs.blender.org/manual/en/dev/addons/interface/modifier_tools.html
+  * モディファイア一括適用機能が便利
