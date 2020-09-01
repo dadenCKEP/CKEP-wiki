@@ -29,10 +29,18 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
 * [ハートのメッシュを作成するスクリプト(Add on)](https://blender.jp/modules/newbb/index.php?topic_id=1341)
   * (自分で2.8対応)
 
-## MithTools関連
+## 法線関連
+* Yet Another Vertex Normal Editor (Y.A.V.N.E.)
+  * https://github.com/fedackb/yavne
+  * 頂点法線をいい感じにする
+
+## 総合系
 * https://github.com/mifth/mifthtools  
   * MiraTools - https://blenderartists.org/t/miratools/637385
   * MifthTools - https://blenderartists.org/t/mifthtools-addon/619227
+* Blender-CM3D2-Converter
+  * https://github.com/trzr/Blender-CM3D2-Converter
+  * おまけ機能が非常に便利
 
 ## 有料プラグイン
 * [Auto-Rig Pro](https://blendermarket.com/products/auto-rig-pro)
