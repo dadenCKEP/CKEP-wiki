@@ -17,6 +17,7 @@ draft: false
 * E3D-Online
   * https://e3d-online.com/
   * V6エクストルーダーとそのスペア部品がある
+    * Prusa i3用のV6部品は一部寸法が違うため注意
 
 ## 資料
 ### 汎用

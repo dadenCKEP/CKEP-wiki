@@ -17,6 +17,7 @@ draft: false
 ## V6
 * V6はPrusa i3 MK3Sに使用されている汎用性の高いホットエンド。
   * Prusa i3 MK3Sのものはここから購入できる: https://e3d-online.com/products/prusa-v6-hotend
+    * 通常のV6と一部互換がないので注意
   * 資料: https://e3d-online.dozuki.com/c/V6
     * 公式以外から購入したor修理などの場合は自力組み立てが必要。その際は上の資料を見る。
 
