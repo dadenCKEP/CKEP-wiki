@@ -48,3 +48,13 @@ draft: false
 * PrintDry Filament Drying System | MatterHackers
   * https://www.matterhackers.com/store/l/printdry-filament-drying-system/sk/MNXQRWQC
   * 乾燥の温度・時間目安の表がある
+
+## フィラメント保管容器
+* 密閉容器 + シリカゲル等の乾燥剤
+* ワンタッチ継手と呼ばれる部品を使うことで密閉状態をある程度保ったままフィラメントを取り出せる
+
+### 資料
+* ダイソー「密封容器5.5L」で作るフィラメント送出機能付きドライボックス
+  * http://hitoriblog.com/?p=60598
+  * すごく良さそう。作成中。
+  
