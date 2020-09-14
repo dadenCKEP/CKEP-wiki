@@ -32,3 +32,6 @@ draft: false
   * http://jetnasa.jp/
 * FIGROBOKOUBOU
   * http://figrobo.blog.fc2.com/
+* Amazon欲しいものリスト
+  * https://www.amazon.jp/hz/wishlist/ls/AMEIPAKCKW0R?tag=daden-22
+  * 購入したものの個別レビューがわり。上記のリンクはAmazon.co.jpアソシエイトを使用しています。

@@ -21,6 +21,20 @@ draft: false
   * 資料: https://e3d-online.dozuki.com/c/V6
     * 公式以外から購入したor修理などの場合は自力組み立てが必要。その際は上の資料を見る。
 
+## カスタムパーツ
+* Prusa MK3/MK3S Tool Holder
+  * https://www.thingiverse.com/thing:3268830
+  * 普通に便利。自分が使う工具に合わせてカスタマイズするといいかも。
+  * これを合わせて使えるらしい。 [1.75mm Filament Clip - Universal (styled after 3D Solutech filament clips)](https://www.thingiverse.com/thing:3268797)
+* Prusa i3 Mk3: Display Cover
+  * https://www.thingiverse.com/thing:2933252
+  * 説明を見るまで実用性に気づけなかった。夜にプリントする際、ディスプレイの光を遮ることができる。
+  * 生成物が薄いため冷却前に剥がすと曲がる。あとベッドへの定着が悪いと曲がる。
+* Bed Scraper/Print Removal Tool
+  * https://www.thingiverse.com/thing:1345877
+  * カスタムパーツではないけど。生成物をはがすのではなくベッド上のゴミを取り除くのに便利。  
+  生成物をはがすのはスチールベッドをはがして曲げたほうが早いし安全。
+
 ## 資料
 * Prusa i3 mk3s + mmu2s ようやく動く
   * http://ocean.opal.ne.jp/blog/?p=1647
@@ -30,3 +44,6 @@ draft: false
   * http://www002.upp.so-net.ne.jp/hard-and-soft/Clone_Prusa/Clone_Prusa.html
 * Prusa MK3sの簡単・便利・安価なアップグレード
   * https://qiita.com/yosuke_y2/items/2b5ef2cdee3d56fdbcfc
+* Amazon欲しいものリスト
+  * https://www.amazon.jp/hz/wishlist/ls/AMEIPAKCKW0R?tag=daden-22
+  * 購入したものの個別レビューがわり。上記のリンクはAmazon.co.jpアソシエイトを使用しています。

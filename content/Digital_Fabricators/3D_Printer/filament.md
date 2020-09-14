@@ -31,6 +31,9 @@ draft: false
   * https://i-maker.jp/blog/3dprint-filament-11722.html
 * どんな種類があるの？ – 今さら聞けない「フィラメント」について -【3Dプリンター】
   * https://cad-kenkyujo.com/2018/06/04/3dprinter-filament/
+* Amazon欲しいものリスト
+  * https://www.amazon.jp/hz/wishlist/ls/AMEIPAKCKW0R?tag=daden-22
+  * 個別レビューがわり。上記のリンクはAmazon.co.jpアソシエイトを使用しています。
 
 ## フィラメント乾燥機
 * 自作検討中
