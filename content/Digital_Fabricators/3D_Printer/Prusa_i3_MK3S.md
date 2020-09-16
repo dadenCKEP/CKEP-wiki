@@ -34,6 +34,13 @@ draft: false
   * https://www.thingiverse.com/thing:1345877
   * カスタムパーツではないけど。生成物をはがすのではなくベッド上のゴミを取り除くのに便利。  
   生成物をはがすのはスチールベッドをはがして曲げたほうが早いし安全。
+* Universal Filament Filter and Lubricator
+  * https://www.thingiverse.com/thing:492067
+  * これもカスタムパーツではない。フィラメントをスポンジで拭うフィルタ。
+* PTFE Cutting Tool 45° 60° 90°
+  * https://www.thingiverse.com/thing:3749528
+  * ホットエンドのPTFEチューブの切断を補助するツール。両端を真っ直ぐ切ることと先端の面取りを補助する。
+  * PTFEチューブの交換が必要になる前に作る必要がある。
 
 ## 資料
 * Prusa i3 mk3s + mmu2s ようやく動く
