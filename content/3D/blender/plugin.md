@@ -69,6 +69,3 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
   * CurveとMeshの2つがある
 * F2
 * LoopTools
-* Modifier Tools
-  * https://docs.blender.org/manual/en/dev/addons/interface/modifier_tools.html
-  * モディファイア一括適用機能が便利
