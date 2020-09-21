@@ -30,6 +30,16 @@ draft: false
   * https://www.thingiverse.com/thing:2933252
   * 説明を見るまで実用性に気づけなかった。夜にプリントする際、ディスプレイの光を遮ることができる。
   * 生成物が薄いため冷却前に剥がすと曲がる。あとベッドへの定着が悪いと曲がる。
+* Prusa MK3S Reverse Bowden filament Sensor Cover
+  * https://www.thingiverse.com/thing:3425397
+  * Prusa i3 MK3SをReverse Bowdenに対応させるためのパーツ。
+  * フィラメントを送り出す方式はDirect DriveとBowdenの2種類があり、BowdenとはギアでPTFEチューブにフィラメントを送り出すことでエクストルーダーにギアを搭載しない方式のこと。
+  * Prusa i3 MK3SはDirect Drive方式なのだが、PTFEチューブからフィラメントを引っ張るのでReverse Bowden方式ということになる。
+  * メリットとしてはスプールホルダーの位置によらずスムーズにフィラメントを取り出すことができる。
+* Prusa i3 Mk3 Z-Tops with Reverse Bowden Mount Option
+  * https://www.thingiverse.com/thing:2825557
+  * Reverse BowdenのPTFEチューブを固定するエクストルーダー側じゃない方のパーツ。
+  * 左右やクイック継ぎ手の径のバリエーションが充実しているのでこれを使用した。
 * Bed Scraper/Print Removal Tool
   * https://www.thingiverse.com/thing:1345877
   * カスタムパーツではないけど。生成物をはがすのではなくベッド上のゴミを取り除くのに便利。  
@@ -40,7 +50,7 @@ draft: false
 * PTFE Cutting Tool 45° 60° 90°
   * https://www.thingiverse.com/thing:3749528
   * ホットエンドのPTFEチューブの切断を補助するツール。両端を真っ直ぐ切ることと先端の面取りを補助する。
-  * PTFEチューブの交換が必要になる前に作る必要がある。
+  * ホットエンドやエクストルーダーの交換・改造をする際に元のエクストルーダーを分解する前に印刷しておく必要がある。
 
 ## 資料
 * Prusa i3 mk3s + mmu2s ようやく動く
