@@ -20,6 +20,7 @@ draft: false
     * 通常のV6と一部互換がないので注意
   * 資料: https://e3d-online.dozuki.com/c/V6
     * 公式以外から購入したor修理などの場合は自力組み立てが必要。その際は上の資料を見る。
+    * 動画もある: https://www.youtube.com/watch?v=gwNAMveHLmw
 
 ## カスタムパーツ
 * Prusa MK3/MK3S Tool Holder
