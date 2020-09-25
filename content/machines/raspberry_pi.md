@@ -10,7 +10,7 @@ Raspberry Piのn回目のセットアップ用簡易ガイド
 ## ハードウェア編
 ### 本体
 * Raspberry Pi Zero W
-  * ピンヘッダがないほう。取り扱いが非常に少ない。[Prusa i3 MK3S]({{< ref "/Digital_Fabricators/3D_Printer/Prusa_i3_MK3S.md" >}})とかに使う。
+  * ピンヘッダがないほう。取り扱いが非常に少ない。[Prusa i3 MK3S]({{< ref "/Digital_Fabrication/3D_Printer/Prusa_i3_MK3S.md" >}})とかに使う。
   * スイッチサイエンス: https://www.switch-science.com/catalog/3200/
 * Raspberry Pi Zero WH
   * ピンヘッダがあるほう。特に理由がなければこちらのほうが入手性が良い。
