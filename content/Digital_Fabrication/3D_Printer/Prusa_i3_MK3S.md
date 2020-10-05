@@ -41,17 +41,37 @@ draft: false
   * https://www.thingiverse.com/thing:2825557
   * Reverse BowdenのPTFEチューブを固定するエクストルーダー側じゃない方のパーツ。
   * 左右やクイック継ぎ手の径のバリエーションが充実しているのでこれを使用した。
+
+## 便利な道具
 * Bed Scraper/Print Removal Tool
   * https://www.thingiverse.com/thing:1345877
-  * カスタムパーツではないけど。生成物をはがすのではなくベッド上のゴミを取り除くのに便利。  
+  * 生成物をはがすのではなくベッド上のゴミを取り除くのに便利。  
   生成物をはがすのはスチールベッドをはがして曲げたほうが早いし安全。
 * Universal Filament Filter and Lubricator
   * https://www.thingiverse.com/thing:492067
-  * これもカスタムパーツではない。フィラメントをスポンジで拭うフィルタ。
+  * フィラメントをスポンジで拭うフィルタ。ノズル径が小さいとわずかなゴミで詰まることがあるらしい。
 * PTFE Cutting Tool 45° 60° 90°
   * https://www.thingiverse.com/thing:3749528
   * ホットエンドのPTFEチューブの切断を補助するツール。両端を真っ直ぐ切ることと先端の面取りを補助する。
   * ホットエンドやエクストルーダーの交換・改造をする際に元のエクストルーダーを分解する前に印刷しておく必要がある。
+
+## 振動・騒音対策
+* Seriously the BEST $2 3D printer upgrade!
+  * https://www.youtube.com/watch?v=y08v6PY_7ak
+  * 紹介記事: https://hackaday.com/2020/05/20/bricking-your-3d-printer-in-a-good-way/
+  * 舗装ブロックと独立気泡フォーム(文中のclosed-cell packing foamに対応する日本語)によって
+    格安で振動と騒音を軽減し品質を向上させるという研究。
+  * 実際にホームセンターで30cm*30cmの舗装ブロック(わずかにサイズが足りなかったがゴム足を少し内側に移動してごまかした)
+    と保護スポンジという名称で販売されていたゴムスポンジを利用して作成したところ、台への振動の伝播が多少軽減されたと思われる。
+  * 副次的な効果だが重量が大幅に増加したことでプリンタ台自体の揺れが軽減された。これは非常に良かった。
+  * コスト自体は非常に安いが、雨の中徒歩で5.5kgの舗装ブロックを手で持って帰るのは大変だった。
+* How to build a simple, cheap enclosure for your 3D printer
+  * https://blog.prusaprinters.org/cheap-simple-3d-printer-enclosure_7785/
+  * IKEAの家具であるLACKシリーズのサイドテーブルを使って作成するエンクロージャ
+  * コメント欄によると全ての部品を印刷するのに142時間が必要で、うち6つの部品は単体で15時間以上を要するため1週間以上確保すべきとのこと。
+  * 印刷エリアの温度を一定に保つことで一部の材料は安定して印刷が可能になる。ただしPLAは軟化してしまうためドアを開けて印刷するべきだとのこと。
+    * もちろん3Dプリンタの一部にPLAの部品を使うのも避けるべきだ。
+  * アクリル板のせいで結構なコストがかかる。
 
 ## 資料
 * Prusa i3 mk3s + mmu2s ようやく動く
