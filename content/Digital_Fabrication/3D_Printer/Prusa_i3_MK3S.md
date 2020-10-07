@@ -37,10 +37,13 @@ draft: false
   * フィラメントを送り出す方式はDirect DriveとBowdenの2種類があり、BowdenとはギアでPTFEチューブにフィラメントを送り出すことでエクストルーダーにギアを搭載しない方式のこと。
   * Prusa i3 MK3SはDirect Drive方式なのだが、PTFEチューブからフィラメントを引っ張るのでReverse Bowden方式ということになる。
   * メリットとしてはスプールホルダーの位置によらずスムーズにフィラメントを取り出すことができる。
-* Prusa i3 Mk3 Z-Tops with Reverse Bowden Mount Option
-  * https://www.thingiverse.com/thing:2825557
-  * Reverse BowdenのPTFEチューブを固定するエクストルーダー側じゃない方のパーツ。
-  * 左右やクイック継ぎ手の径のバリエーションが充実しているのでこれを使用した。
+* Bed_Leveling_without_Wave_Springs
+  * https://github.com/PrusaOwners/prusaowners/wiki/Bed_Leveling_without_Wave_Springs
+  * ナイロンナットを利用したベッドレベリングシステム。
+  * OctoPrintの専用プラグインや計算機を使うことでベッドの高低差をねじ回転量に変換し調整を容易にする。
+  * 使用する部品としてはM3ナイロンナット * 8 (+ M3ナイロンワッシャー * 8)と格安。
+    * https://www.amazon.co.jp/gp/product/B07ML57LZB/?tag=daden-22
+    * 自分はこれを使用した。上記のリンクはAmazon.co.jpアソシエイトを使用しています。
 
 ## 便利な道具
 * Bed Scraper/Print Removal Tool
