@@ -17,7 +17,7 @@ Raspberry Piのn回目のセットアップ用簡易ガイド
   * 秋月電子通商: https://akizukidenshi.com/catalog/g/gM-12961/
   * スイッチサイエンス: https://www.switch-science.com/catalog/3646/
   * 千石電商: https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57LT
-* Raspberry Pi 4とか3とかはバリレーションが多いためそのうち追記
+* Raspberry Pi 4とか3とかはバリエーションが多いためそのうち追記
 
 ### 周辺
 * 追加購入
@@ -57,6 +57,6 @@ Raspbian Stretch時点でのフロー。更新の際に一部変更になるこ�
 1. 鍵交換
 
 ## オプション編
-1. m2xに本体温度を送信するスクリプト(`m2x.sh`)を`/home/daden/bin`に置いてcronを設定
+* m2xに本体温度を送信するスクリプト(`m2x.sh`)を`/home/daden/bin`に置いてcronを設定
   * m2xは無料サービスの提供を取りやめた。移行先検討中。
-1. ラックに格納する前に付箋でIP等を書いておかないと後で見分けがつかなくてどれの電源を切ればいいかわからなくなる
+* 同一・あるいは近い型番だと外見上の識別が難しく、ラック等に格納する前に付箋でIP等を書いておかないと後で見分けがつかなくてどれの電源を切ればいいかわからなくなる。
