@@ -53,6 +53,8 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
   * https://modelinghappy.com/archives/25222
 * [Voxel Heat Diffuse Skinning](https://blendermarket.com/products/voxel-heat-diffuse-skinning)
   * http://www.mesh-online.net/voxel.html
+* [Uvpackmaster 2](https://blendermarket.com/products/uvpackmaster2)
+  * https://uvpackmaster.com/uvpackmaster-for-blender/
 
 ## リトポ関連
 * [EdgeFlow](https://github.com/BenjaminSauder/EdgeFlow)
