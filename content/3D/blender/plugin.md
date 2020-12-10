@@ -20,10 +20,13 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
 ## ウェイト関連
 * [Blenderでウェイトのない頂点グループをすべて削除する](https://scrapbox.io/keroxp/Blender%E3%81%A7%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%81%AE%E3%81%AA%E3%81%84%E9%A0%82%E7%82%B9%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%92%E3%81%99%E3%81%B9%E3%81%A6%E5%89%8A%E9%99%A4%E3%81%99%E3%82%8B)
   * (自分で2.8対応)
+  * 同等の機能は後述の`Blender-CM3D2-Converter`にもある。
 
 ## テクスチャ関連
 * [TexTools](http://renderhjs.net/textools/blender/)
   * 非公式2.8対応版: https://github.com/SavMartin/TexTools-Blender (OSSだし非公式とは…)
+* [AutoReloadImage](https://yukimi-blend.blogspot.com/2019/12/blog-post.html)
+  * 外部ツールでテクスチャを更新するとBlender側でリロードするアドオン
 
 ## 追加メッシュ関連
 * [ハートのメッシュを作成するスクリプト(Add on)](https://blender.jp/modules/newbb/index.php?topic_id=1341)
