@@ -40,7 +40,7 @@ draft: falsel
   * Raspberry Pi 3 B(192.168.11.13)(ranchan)  
     用途未定 ディスプレイを付けてある
 * NAS
-  * ReadyNas 212(192.168.11.51)  
+  * [ReadyNAS 212](/machines/readynas212)(192.168.11.51)  
     各種バックアップ用
 * サーバー
   * HP Compaq Business Desktop dc5800 SF/CT(有線: 192.168.11.17)(86-server)  
