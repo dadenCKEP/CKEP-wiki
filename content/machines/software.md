@@ -11,25 +11,47 @@ draft: false
   * private reposに拡張機能のバックアップ・復元ツールあり
 * Stirling
   * https://www.vector.co.jp/soft/win95/util/se079072.html
+  * バイナリエディタ。
 
 ## Git関連
 * Git for Windows
   * https://gitforwindows.org/
+  * インストール時のオプションはよく読んで設定すること。
 * GitHub Desktop
   * https://desktop.github.com/
-  * VSCodeより後に入れる
+  * 連携等があるためVisual Studio Codeより後に入れること。
 
 ## 診断ツール
 * CPU-Z
   * https://www.cpuid.com/softwares/cpu-z.html
 * HWMonitor
   * https://www.cpuid.com/softwares/hwmonitor.html
+  * PCの状態、特に温度や消費電力を確認する際に有用。
 * GPU-Z
   * https://www.techpowerup.com/gpuz/
 * OCCT
   * https://www.ocbase.com/
 * CrystalDiskInfo
   * https://crystalmark.info/ja/software/crystaldiskinfo/
+  * ストレージ監視ツール。スタートアップ&常駐必須。  
+  異常の通知が出たらすぐにバックアップを取り始めれば間に合うかもしれない。
+
+## 通信関連
+* Putty
+  * https://www.putty.org/
+  * 更新されてない日本語版を使うのはやめよう
+* WinSCP
+  * https://winscp.net/eng/download.php
+  * Puttyのプロファイルをインポートする機能がある。
+
+## 通話関連
+* Discord
+  * https://discord.com/download
+* Open Broadcaster Software
+  * https://obsproject.com/ja/download
+* VDRAW
+  * https://sites.google.com/view/vdraw/vdraw
+  * private reposに最新のVRMあり
 
 ## ゲーム
 * Steam
@@ -45,5 +67,19 @@ draft: false
 ## その他
 * WinMerge
   * https://winmerge.org/downloads/?lang=ja
+  * 差分ツール。プラグインを使用することでExcelファイル等の比較も可能。
 * PowerToys
   * https://github.com/microsoft/PowerToys/releases
+  * 複合ツール。FancyZonesやPowerRename、PowerToys Runが便利。
+* FastCopy
+  * https://fastcopy.jp/
+  * ファイルコピー・バックアップ・削除ツール。デバイスごとのチューニングがある他、ベリファイや時間予測も可能。
+* SD Card Formatter
+  * https://www.sdcard.org/jp/downloads/formatter/
+  * パーティション割ってあったりWindowsで認識できないシステムが書いてあったりする場合はこれを使って初期化する。
+* Win32 Disk Imager
+  * https://sourceforge.net/projects/win32diskimager/
+  * SDカードのディスクイメージを読み書きするツール。
+* Audacity
+  * https://www.audacityteam.org/download/windows/
+  * 波形を見たり解析をしたりするやつ。特殊な条件下での再生もこれを使う。
