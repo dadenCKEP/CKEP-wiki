@@ -1,5 +1,6 @@
 baseURL = "https://wiki.ckep.info/"
-languageCode = "ja-jp"
+languageCode = "ja"
+defaultContentLanguage = "ja"
 title = "dadenCKEP-wiki"
 theme = "hugo-theme-learn"
 publishDir = "docs"
