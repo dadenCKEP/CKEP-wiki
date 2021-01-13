@@ -83,3 +83,15 @@ draft: false
 * Audacity
   * https://www.audacityteam.org/download/windows/
   * 波形を見たり解析をしたりするやつ。特殊な条件下での再生もこれを使う。
+* Hugo
+  * https://github.com/gohugoio/hugo/releases
+  * 静的サイトジェネレータ
+  * wiki編集の際のプレビューができるのでローカルにも置く。
+* ImageMagick
+  * https://imagemagick.org/script/download.php
+  * コマンドラインから使用できる万能の画像加工ツール
+  * 旧コマンドは面倒なことになるので辞めよう。
+* Media Player Classic Black Edition
+  * https://sourceforge.net/projects/mpcbe/
+  * Media Player Classicの後継。多機能。
+  * コマンドラインから操作できるが手動でパスを通しておく必要がある。
