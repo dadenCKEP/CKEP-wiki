@@ -20,6 +20,8 @@ draft: falsel
     * ランプ2(メインルーム/電気スタンド)
   * メインPC(192.168.11.30)
   * Google Nest Hub
+  * OctoPrint(192.168.11.210)
+    * Prusa i3 MK3S
 
 ## 実家
 * ルーター・モデム等
