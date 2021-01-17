@@ -95,3 +95,6 @@ draft: false
   * https://sourceforge.net/projects/mpcbe/
   * Media Player Classicの後継。多機能。
   * コマンドラインから操作できるが手動でパスを通しておく必要がある。
+* QuickViewer
+  * https://kanryu.github.io/quickviewer/index-ja
+  * zip等のアーカイブを直接読み込みできる高速画像ビュワー
