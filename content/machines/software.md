@@ -53,6 +53,18 @@ draft: false
   * https://sites.google.com/view/vdraw/vdraw
   * private reposに最新のVRMあり
 
+## VRC関連
+* Unity Hub
+  * https://unity3d.com/jp/get-unity/download
+* Substance Painter
+  * Steamから導入
+  * NASに各種素材があるので再インポートが必要
+* Marvelous Designer
+  * Steamから導入
+* Bleder
+  * Steamから導入
+  * [プラグインリスト](/3d/blender/plugin/)
+
 ## ゲーム
 * Steam
   * https://store.steampowered.com/
