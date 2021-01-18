@@ -110,3 +110,10 @@ draft: false
 * QuickViewer
   * https://kanryu.github.io/quickviewer/index-ja
   * zip等のアーカイブを直接読み込みできる高速画像ビュワー
+* Rapture
+  * http://www.knystudio.net/rapture.html
+  * 使いやすいキャプチャツール
+* ScreenToGif
+  * https://www.screentogif.com/downloads
+  * 使いやすい動画キャプチャツール(短時間用)
+    * 長時間キャプチャはOBSとかを使う
