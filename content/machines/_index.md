@@ -12,16 +12,49 @@ draft: falsel
 
 ## 自宅
 * ルーター・モデム等
-  * RT-AC68U(192.168.0.2)(192.168.12.1)  
-    ルーター リプレース完了して放置されてる
+  * RT-AC68U(192.168.0.2)(192.168.12.1)
+    * ルーター
+* ワンボードコンピュータ
+  * Raspberry Pi 2 B(192.168.11.10)
+    * hostname: allocator
+    * eth0: B8:27:EB:XX:XX:44
+    * リバースプロキシ
+    * 常時稼働
+  * Raspberry Pi 3 B(192.168.11.12)
+    * hostname: web-server
+    * eth0: B8:27:EB:XX:XX:D1
+    * wlan0: B8:27:EB:XX:XX:84
+    * Node-RED
+    * 常時稼働
+  * Raspberry Pi 3 B(192.168.11.14)
+    * hostname: library
+    * eth0: B8:27:EB:XX:XX:49
+    * wlan0: B8:27:EB:XX:XX:1C
+    * 常時稼働
+  * Raspberry Pi 4B 8GB
+    * 常時稼働
+  * Raspberry Pi Zero WH
+    * 常時稼働
+  * Pine A64+2GB(192.168.11.15)  
+    * 実験・多用途
+  * Raspberry Pi 3 B(192.168.11.13)
+    * hostname: ranchan
+    * 用途未定 ディスプレイを付けてある
+* NAS
+  * [ReadyNAS 212](/machines/readynas212)(192.168.11.51)  
+    * 各種バックアップ用
 * その他
   * Philips Hue ブリッジ (192.168.11.50)
+    * 00:17:88:XX:XX:13
     * ランプ1(メインルーム/室内中央)
     * ランプ2(メインルーム/電気スタンド)
   * メインPC(192.168.11.30)
   * Google Nest Hub
+  * Nature Remo mini
   * OctoPrint(192.168.11.210)
     * Prusa i3 MK3S
+  * HS105
+    * 4台くらいある
 
 ## 実家
 * ルーター・モデム等
@@ -29,21 +62,6 @@ draft: falsel
     モデム 貸与だと思う  
     ポートフォワーディングのみ設定(HTTP,VPN等) 他はほぼスルー
   * Archer C3150(192.168.0.3)(192.168.11.1)  
-    ルーター VPN 上のルータに比べて電波強度が弱いので対策を検討中
-* ワンボードコンピュータ
-  * Raspberry Pi 2 B(192.168.11.10)(allocator)  
-    リバースプロキシ・常時稼働
-  * Raspberry Pi 3 B(192.168.11.12)(web-server)  
-    実験・多用途用・常時稼働
-  * Raspberry Pi 3 B(192.168.11.14)(library)  
-    Webサービス等・常時稼働
-  * Pine A64+2GB(192.168.11.15)  
-    実験・多用途用
-  * Raspberry Pi 3 B(192.168.11.13)(ranchan)  
-    用途未定 ディスプレイを付けてある
-* NAS
-  * [ReadyNAS 212](/machines/readynas212)(192.168.11.51)  
-    各種バックアップ用
 * サーバー
   * HP Compaq Business Desktop dc5800 SF/CT(有線: 192.168.11.17)(86-server)  
     http://jp.ext.hp.com/products/desktops/old/dc5800sf_ct/core_duo_model.html (リンク切れ)  
