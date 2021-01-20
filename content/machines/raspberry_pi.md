@@ -56,11 +56,16 @@ Raspberry Piのn回目のセットアップ用簡易ガイド
 * `sudo apt-get install vim`
 * IPを固定してhostnameを設定(Jessie以降とそれより前で違う)
   * 参考(Jessie以降): https://www.raspberrypi.org/forums/viewtopic.php?t=140252
+* `daden`ユーザを追加
+  * `$sudo adduser daden`
+* `daden`を`sudo`に追加
+  * `$sudo gpasswd -a daden sudo`
+* `pi`はnopasswdなので必要に応じて削除か`visudo`で後処理(最近のバージョンはnopasswdじゃない？)
+  * `$sudo userdel -r pi`
+  * `$sudo visudo`
 * microSDの寿命を気にするなら `/var/log` とかをtmpfs上に構成
   * 参考1: https://curecode.jp/tech/raspberrypi-ramdisk/
   * 参考2: [https://www.angelcurio.com/raspberrypi/Raspberry Pi/各種設定/log,tmpのオンメモリ(tmpfs)化](https://www.angelcurio.com/raspberrypi/?Raspberry%20Pi/%E5%90%84%E7%A8%AE%E8%A8%AD%E5%AE%9A/log%2Ctmp%E3%81%AE%E3%82%AA%E3%83%B3%E3%83%A1%E3%83%A2%E3%83%AA%28tmpfs%29%E5%8C%96)
-* sudoなユーザを追加し`pi`を削除
-* `pi`はnopasswdなので必要に応じて`visudo`で後処理
 * 鍵交換
 
 ## オプション編

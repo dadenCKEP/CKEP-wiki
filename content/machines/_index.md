@@ -31,7 +31,9 @@ draft: falsel
     * eth0: B8:27:EB:XX:XX:49
     * wlan0: B8:27:EB:XX:XX:1C
     * 常時稼働
-  * Raspberry Pi 4B 8GB
+  * Raspberry Pi 4B 8GB(192.168.11.19)
+    * hostname: power
+    * eth0: DC:A6:32:XX:XX:20
     * 常時稼働
   * Raspberry Pi Zero WH
     * 常時稼働
