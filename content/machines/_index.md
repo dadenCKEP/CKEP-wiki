@@ -25,12 +25,16 @@ draft: falsel
     * eth0: B8:27:EB:XX:XX:D1
     * wlan0: B8:27:EB:XX:XX:84
     * Node-RED
+    * Home Assistant
+      * エラーが出てて怪しい
     * 常時稼働
   * Raspberry Pi 3 B(192.168.11.14)
-    * hostname: library
+    * hostname: ubuntu
     * eth0: B8:27:EB:XX:XX:49
     * wlan0: B8:27:EB:XX:XX:1C
-    * 常時稼働
+    * ubuntu-20.04.1-preinstalled-server-arm64+raspi.img
+    * InfluxDB
+    * Grafana
   * Raspberry Pi 4B 8GB(192.168.11.19)
     * hostname: power
     * eth0: DC:A6:32:XX:XX:20

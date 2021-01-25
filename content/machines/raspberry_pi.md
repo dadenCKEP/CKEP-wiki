@@ -44,16 +44,20 @@ Raspberry Piのn回目のセットアップ用簡易ガイド
 ## セットアップ編
 * [https://www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)からimageをDL
 * 念のため[SD Memory Card Formatter](https://www.sdcard.org/jp/downloads/formatter/)で消去して[Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/)で書き込み
-* `/boot/ssh` というファイルを作成する。  
-これがあるとデフォルトでSSHが有効になりディスプレイなしセットアップが可能。
+* `/boot/ssh` というファイルを作成する。中身は空でよい。
+  * これがあるとデフォルトでSSHが有効になりディスプレイなしセットアップが可能。
 * LANケーブルを接続して電源を接続。
 * ルーターの管理画面からMACアドレスが`B8:27:EB`から始まるDHCPで割り当てられてるっぽい新規のデバイスを探す。
   * `Raspberry Pi Foundation` の割り当て。`DC:A6:32`, `E4:5F:01`もあるらしいが未確認。
+    * `DC:A6:32`はRaspberry Pi4で確認。
+  * MACアドレスはシリアルナンバーから生成されるらしいのでmicroSDのフォーマットでは変わらない
 * とりあえずルータ側から固定IPを振る。このwikiにメモするとよい。
-* `sudo raspi-config` から一通り設定
-  * hostname周辺を変更してる場合は再起動
+  * ルーターによってはこれだけでIPを固定できる。
 * `sudo apt-get update` と `sudo apt-get upgrade`
 * `sudo apt-get install vim`
+* `sudo raspi-config` から一通り設定
+  * キーボードのロケールを正しく設定したあとにパスワードを設定する(未設定だとロケールがめちゃくちゃになって死ぬ)
+    * そもそもどうせあとで`pi`ユーザーを消すのでここでパスワードを変えて詰むリスクを取るべきでない
 * IPを固定してhostnameを設定(Jessie以降とそれより前で違う)
   * 参考(Jessie以降): https://www.raspberrypi.org/forums/viewtopic.php?t=140252
 * `daden`ユーザを追加
@@ -67,6 +71,10 @@ Raspberry Piのn回目のセットアップ用簡易ガイド
   * 参考1: https://curecode.jp/tech/raspberrypi-ramdisk/
   * 参考2: [https://www.angelcurio.com/raspberrypi/Raspberry Pi/各種設定/log,tmpのオンメモリ(tmpfs)化](https://www.angelcurio.com/raspberrypi/?Raspberry%20Pi/%E5%90%84%E7%A8%AE%E8%A8%AD%E5%AE%9A/log%2Ctmp%E3%81%AE%E3%82%AA%E3%83%B3%E3%83%A1%E3%83%A2%E3%83%AA%28tmpfs%29%E5%8C%96)
 * 鍵交換
+## セットアップ編(Ubuntu)
+64bit版がある。  
+https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi
+
 
 ## オプション編
 * m2xに本体温度を送信するスクリプト(`m2x.sh`)を`/home/daden/bin`に置いてcronを設定
