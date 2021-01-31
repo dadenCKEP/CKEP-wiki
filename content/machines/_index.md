@@ -32,20 +32,23 @@ draft: falsel
     * hostname: ubuntu
     * eth0: B8:27:EB:XX:XX:49
     * wlan0: B8:27:EB:XX:XX:1C
-    * ubuntu-20.04.1-preinstalled-server-arm64+raspi.img
-    * InfluxDB
-    * Grafana
+    * 停止中
   * Raspberry Pi 4B 8GB(192.168.11.19)
     * hostname: power
     * eth0: DC:A6:32:XX:XX:20
+    * ubuntu-20.04.1-preinstalled-server-arm64+raspi.img
     * 常時稼働
+    * InfluxDB
+    * Grafana
   * Raspberry Pi Zero WH
-    * 常時稼働
+    * 停止中
   * Pine A64+2GB(192.168.11.15)  
     * 実験・多用途
+    * 停止中
   * Raspberry Pi 3 B(192.168.11.13)
     * hostname: ranchan
     * 用途未定 ディスプレイを付けてある
+    * 停止中
 * NAS
   * [ReadyNAS 212](/machines/readynas212)(192.168.11.51)  
     * 各種バックアップ用

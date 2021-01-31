@@ -117,3 +117,7 @@ draft: false
   * https://www.screentogif.com/downloads
   * 使いやすい動画キャプチャツール(短時間用)
     * 長時間キャプチャはOBSとかを使う
+* 7-Zip
+  * https://sevenzip.osdn.jp/
+  * 一番使いやすくて無難なアーカイバ。
+  * シェル拡張に圧縮・展開だけでなくハッシュの計算もできる。
