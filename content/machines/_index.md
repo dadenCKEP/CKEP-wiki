@@ -64,6 +64,8 @@ draft: falsel
     * Prusa i3 MK3S
   * HS105
     * 4台くらいある
+    * N極対応のプラグしか使用できないため、この延長ケーブルと併用すると使いやすい。  
+      https://www.amazon.co.jp/gp/product/B01N9BX7PI/
 
 ## 実家
 * ルーター・モデム等
