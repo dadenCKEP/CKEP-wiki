@@ -17,59 +17,85 @@ draft: false
 基本的にユーティリティ系のみ。
 ※調査中
 
-* Jmc2Obj
-  * 1.15 - 1.16
-  * http://www.jmc2obj.net/
-  * Modではないけどこれを使いたいので対応バージョンを意識
+### テンプレート
+* 名称
+  * URL
+  * 対応Minecraftバージョン
+  * 導入Modバージョン
+  * 導入先(server or client or both)
+  * 概要
+
+### 一覧
 * Fabric
-  * 1.15.2-1.16.5
   * https://fabricmc.net/use/
+  * 1.15.2-1.16.5
+  * 0.6.1.51
   * 新しいModLoader。Forgeと根本的に仕組みが違うらしい。
 * Fabric API
-  * 1.15.2-1.16.5
   * https://www.curseforge.com/minecraft/mc-mods/fabric-api
+  * 1.15.2-1.16.5
+  * 0.30.0
   * Fabricでよく使用される前提Mod
+* Mod Menu
+  * https://www.curseforge.com/minecraft/mc-mods/modmenu
+  * 1.15.2-1.16.5
+  * 1.16.6
+  * Fabric用のMod一覧を追加する
 * Untranslated Items
-  * 1.15.2-1.16.5
   * https://www.curseforge.com/minecraft/mc-mods/untranslated-items
-  * 言語設定に関わらずアイテム名を英語表示にする
-* FTB Backups
-  * 1.15.2-1.16.4
-  * https://www.curseforge.com/minecraft/mc-mods/ftb-backups
-  * バックアップコマンドを追加する
-* Phosphor
   * 1.15.2-1.16.5
+  * fabric-mc1.16.5-1.0.0
+  * 言語設定に関わらずアイテム名を英語表示にする
+* Phosphor
   * https://www.curseforge.com/minecraft/mc-mods/phosphor
+  * 1.15.2-1.16.5
+  * mc1.16.3-0.7.0
   * 照明エンジンの最適化
 * Sodium
-  * 1.16.3-1.16.5
   * https://www.curseforge.com/minecraft/mc-mods/sodium
+  * 1.16.3-1.16.5
+  * mc1.16.3-0.1.0
   * レンダリングエンジンの最適化
 * Lithium
-  * 1.15.2-1.16.5
   * https://www.curseforge.com/minecraft/mc-mods/lithium
+  * 1.15.2-1.16.5
+  * mc1.16.5-0.6.3
   * 汎用最適化(ゲーム物理・Mob AI・ブロックティック)
 * AppleSkin
-  * 1.15.2-1.16.4
   * https://www.curseforge.com/minecraft/mc-mods/appleskin
-  * 満腹度・隠し満腹度の回復量表示
-* TrashSlot
-  * 1.15.2-1.16.5
-  * https://www.curseforge.com/minecraft/mc-mods/trashslot
-  * インベントリにゴミ箱を追加
-* Dynmap
   * 1.15.2-1.16.4
+  * mc1.16-fabric-1.0.11
+  * 満腹度・隠し満腹度の回復量表示
+* Roughly Enough Items
+  * https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
+  * 1.15.2-1.16.5
+  * v5.9.171
+  * 全アイテムの一覧とレシピを閲覧できるようになる。
+* Dynmap
   * https://www.curseforge.com/minecraft/mc-mods/dynmapforge
+  * 1.15.2-1.16.4
+  * v3.1-beta-7 for Fabric 1.16.4
   * ブラウザで3Dマップが見られるようになる
 * Xaero's Minimap
-  * 1.15.2-1.16.5
   * https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+    * 起動すると最新版を案内される: https://chocolateminecraft.com/minimap2.php
+  * 1.15.2-1.16.5
+  * 21.3.0.1_Fabric_1.16.5
   * ミニマップを導入する
 * VanillaDeathChest
-  * 1.15.2-1.16.5
-  * https://www.curseforge.com/minecraft/mc-mods/vanilladeathchest-forge
+  * https://www.curseforge.com/minecraft/mc-mods/vanilladeathchest-fabric
+  * 1.15.2-1.16.4
+  * 1.16.3-1.11.0.7
   * デスボックス(チェスト)を追加する
 * Diggus Maximus
-  * 1.15.2-1.16.4
   * https://www.curseforge.com/minecraft/mc-mods/diggus-maximus
+  * 1.15.2-1.16.4
+  * 1.4.2-1.16.3
   * 一括破壊系
+
+## その他
+* Jmc2Obj
+  * http://www.jmc2obj.net/
+  * 1.15 - 1.16
+  * 110
+  * Modではないけどこれを使いたいので対応バージョンを意識
