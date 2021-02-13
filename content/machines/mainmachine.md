@@ -41,15 +41,10 @@ draft: false
 * GPU
   * Palit RTX3080 GP OC 10G GDRX6
   * MSI GeForce GTX 1060 AERO ITX 6G OC
-    * 引退・譲渡先探し中
+    * 売却済
 * 光学ドライブ
   * (調査中)
     * Blu-ray対応
-* その他
-  * AINEX AIF-06A
-    * SAMSUNG MZVPV256HDGL-00000と併せて使用しているため取り外し中
-    * PCI Express接続のM.2 SSDスロット*2 
-    * https://www.ainex.jp/products/aif-06a/
 
 ## ディスプレイ
 * LG 24MK430H-B

@@ -49,6 +49,9 @@ draft: falsel
     * hostname: ranchan
     * 用途未定 ディスプレイを付けてある
     * 停止中
+  * サブPC(192.168.11.20)
+    * hostname: ubuntu-game
+    * ゲームサーバー用。元メインPCだったもの。
 * NAS
   * [ReadyNAS 212](/machines/readynas212)(192.168.11.51)  
     * 各種バックアップ用
