@@ -92,6 +92,17 @@ draft: false
   * 1.15.2-1.16.4
   * 1.4.2-1.16.3
   * 一括破壊系
+* Inventory Profiles
+  * https://www.curseforge.com/minecraft/mc-mods/inventory-profiles
+  * 1.16.2
+  * 有志対応版を使用: https://github.com/Takaranoao/Inventory-Profiles
+    * 1.16.4-0.4.2
+  * 前提: MaLiLib
+* MaLiLib
+  * https://www.curseforge.com/minecraft/mc-mods/malilib
+  * 1.16.2-1.16.5
+  * 1.16.4-0.10.0-dev.21+arne.2
+
 
 ## その他
 * Jmc2Obj
