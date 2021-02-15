@@ -80,7 +80,7 @@ draft: false
   * https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
     * 起動すると最新版を案内される: https://chocolateminecraft.com/minimap2.php
   * 1.15.2-1.16.5
-  * 21.3.0.1_Fabric_1.16.5
+  * 21.3.0.2_Fabric_1.16.5
   * ミニマップを導入する
 * VanillaDeathChest
   * https://www.curseforge.com/minecraft/mc-mods/vanilladeathchest-fabric
@@ -102,7 +102,15 @@ draft: false
   * https://www.curseforge.com/minecraft/mc-mods/malilib
   * 1.16.2-1.16.5
   * 1.16.4-0.10.0-dev.21+arne.2
-
+* Light Overlay
+  * https://www.curseforge.com/minecraft/mc-mods/light-overlay
+  * -1.16.5
+  * v5.7.0
+  * 前提: Architectury API, Fabric API
+* Architectury API
+  * https://www.curseforge.com/minecraft/mc-mods/architectury-fabric
+  * -1.16.5
+  * v1.6.114
 
 ## その他
 * Jmc2Obj
