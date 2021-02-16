@@ -8,14 +8,15 @@ draft: false
 URL: https://www.jp.netgear.com/home/products/connected-storage/RN212.aspx
 
 ## HDD構成
-* WD Blue (5400 RPM Class) 2TB
-  * WD20EZRZ
-  * 20161213製造
-* WD Blue (5400 RPM Class) 2TB
-  * WD20EZRZ
-  * 20171213製造
-
-## 購入済みのストック
 * WD Blue (5400 RPM Class) 4TB
   * WD40EZRZ
   * 20201124製造
+* WD Blue (5400 RPM Class) 2TB
+  * WD20EZRZ
+  * 20161213製造
+
+## 引退
+* WD Blue (5400 RPM Class) 2TB
+  * WD20EZRZ
+  * 20171213製造
+  * サブマシンへ転用
