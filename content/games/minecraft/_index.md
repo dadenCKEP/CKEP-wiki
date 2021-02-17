@@ -107,7 +107,7 @@ draft: false
   * https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
     * 起動すると最新版を案内される: https://chocolateminecraft.com/minimap2.php
   * 1.15.2-1.16.5
-  * 21.3.0.2_Fabric_1.16.5
+  * 21.4.0_Fabric_1.16.5
   * Client
   * ミニマップを導入する
 * VanillaDeathChest
