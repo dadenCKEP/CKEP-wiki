@@ -37,5 +37,12 @@ MultiMCにxmlファイルを投げ込むと読み込まれる
 ### 本体の設置
 [Fabric Wikiの該当項目を参照](https://fabricmc.net/wiki/player:tutorials:install_server)
 
+### Dynmapの設置
+* とりあえずデフォルトの状態で動作確認
+* nginxをインストール
+* Dynmapの設定をする
+  * 参考: https://github.com/webbukkit/dynmap/wiki/External-Webserver-Basics
+  * 参考2:   https://github.com/webbukkit/dynmap/wiki/Dynmap-with-Nginx
+
 ### ModPackの作成・更新
 [Fabric Wikiの該当項目を参照](https://fabricmc.net/wiki/tutorial:mcupdater_modpacks)
