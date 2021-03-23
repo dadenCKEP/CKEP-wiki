@@ -56,9 +56,11 @@ draft: false
 * キーボード
   * → [/machines/keyboard](/machines/keyboard)
 * マウス
-  * logicool SE-M705
-  * 購入: 2019/03/06
+  * Logicool G502WL
+  * 購入: 2021/03/16
 * USBハブ
   * (no data)
     * HTC VIVE Trackerのドングル専用
   * (no data)
+    * マウス・キーボード等。KVMスイッチに接続。
+* KVMスイッチ
