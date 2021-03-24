@@ -42,9 +42,14 @@ draft: falsel
     * Grafana
   * Raspberry Pi Zero WH
     * 停止中
-  * Pine A64+2GB(192.168.11.15)  
-    * 実験・多用途
-    * 停止中
+  * Pine A64+2GB(192.168.11.15)
+    * hostname: streamer
+    * eth0: 
+    * ストリーミング用
+    * メモ
+      * OS: https://wiki.pine64.org/wiki/Pine_A64_Software_Release#Armbian
+      * youtube-dl: https://github.com/ytdl-org/youtube-dl
+      * NGINX-based Media Streaming Server: https://github.com/arut/nginx-rtmp-module
   * Raspberry Pi 3 B(192.168.11.13)
     * hostname: ranchan
     * 用途未定 ディスプレイを付けてある
@@ -52,6 +57,7 @@ draft: falsel
   * サブPC(192.168.11.20)
     * hostname: ubuntu-game
     * ゲームサーバー用。元メインPCだったもの。
+    * [Minecraft advanced_vanilla](/games/minecraft/advanced_vanilla)
 * NAS
   * [ReadyNAS 212](/machines/readynas212)(192.168.11.51)  
     * 各種バックアップ用
