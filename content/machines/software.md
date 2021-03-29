@@ -121,3 +121,10 @@ draft: false
   * https://sevenzip.osdn.jp/
   * 一番使いやすくて無難なアーカイバ。
   * シェル拡張に圧縮・展開だけでなくハッシュの計算もできる。
+* DiskInfo
+  * https://www.vector.co.jp/soft/winnt/util/se475617.html
+  * フォルダごとの専有容量を再帰的に解析できるツール。
+  * ドライブの容量が不自然に少なくなったらこれで調べる。
+* Audio Router
+  * https://github.com/audiorouterdev/audio-router
+  * アプリケーションごとにオーディオ出力先デバイスを指定できるツール。
