@@ -48,6 +48,7 @@ draft: falsel
     * ストリーミング用
     * メモ
       * OS: https://wiki.pine64.org/wiki/Pine_A64_Software_Release#Armbian
+        * Armbian: https://www.armbian.com/pine64/
       * youtube-dl: https://github.com/ytdl-org/youtube-dl
       * NGINX-based Media Streaming Server: https://github.com/arut/nginx-rtmp-module
   * Raspberry Pi 3 B(192.168.11.13)
