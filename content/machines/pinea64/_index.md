@@ -17,6 +17,8 @@ PINE A64のn回目のセットアップ用簡易ガイド
 * PINE A64 LTS
   * https://www.pine64.org/devices/single-board-computers/pine-a64-lts/
 
-
 ## セットアップ編
 (編集中)
+* OS
+  * Armbian
+    * https://www.armbian.com/pine64/
