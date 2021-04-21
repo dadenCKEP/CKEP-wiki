@@ -36,8 +36,8 @@ draft: false
     * SATA ACS-4
     * 512.1GB
 * メモリ
-  * SK Hynix HMA41GU6AFR8N-TF DDR4-2132 8GB*2
-  * Kingston KHX2133C14D4/8G DDR4-2134 8GB*2
+  * SK Hynix HMA41GU6AFR8N-TF DDR4-2132 8GB *2
+  * Kingston KHX2133C14D4/8G DDR4-2134 8GB *2
 * GPU
   * Palit RTX3080 GP OC 10G GDRX6
   * MSI GeForce GTX 1060 AERO ITX 6G OC
@@ -45,6 +45,9 @@ draft: false
 * 光学ドライブ
   * (調査中)
     * Blu-ray対応
+* 冷却系
+  * RGB & Fan Controller (AC-2RGBC-B1)
+  * Thermaltake TOUGHFAN 12 (CL-F082-PL12BL-A FN1500) *2
 
 ## ディスプレイ
 * LG 24MK430H-B
