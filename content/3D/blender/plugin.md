@@ -74,3 +74,6 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
   * CurveとMeshの2つがある
 * F2
 * LoopTools
+* BlenderKit
+  * https://www.blenderkit.com/
+  * [Poly Haven](https://polyhaven.com/)も参照できるらしい。
