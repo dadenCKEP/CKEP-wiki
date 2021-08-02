@@ -18,6 +18,7 @@ draft: falsel
   * Raspberry Pi 2 B(192.168.11.10)
     * hostname: allocator
     * eth0: B8:27:EB:XX:XX:44
+    * 2021-05-07-raspios-buster-armhf-lite.img
     * リバースプロキシ
     * 常時稼働
   * Raspberry Pi 3 B(192.168.11.12)
