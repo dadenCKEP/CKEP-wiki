@@ -22,12 +22,11 @@ draft: falsel
     * リバースプロキシ
     * 常時稼働
   * Raspberry Pi 3 B(192.168.11.12)
-    * hostname: web-server
+    * hostname: automation
     * eth0: B8:27:EB:XX:XX:D1
     * wlan0: B8:27:EB:XX:XX:84
+    * 2021-05-07-raspios-buster-armhf-lite.img
     * Node-RED
-    * Home Assistant
-      * エラーが出てて怪しい
     * 常時稼働
   * Raspberry Pi 3 B(192.168.11.14)
     * hostname: ubuntu
