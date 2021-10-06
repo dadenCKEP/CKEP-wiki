@@ -128,3 +128,6 @@ draft: false
 * Audio Router
   * https://github.com/audiorouterdev/audio-router
   * アプリケーションごとにオーディオ出力先デバイスを指定できるツール。
+* Touch Portal
+  * https://www.touch-portal.com/
+  * スマホをStream Deckみたいにするツール。
