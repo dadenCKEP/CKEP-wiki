@@ -58,6 +58,10 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
   * http://www.mesh-online.net/voxel.html
 * [Uvpackmaster 2](https://blendermarket.com/products/uvpackmaster2)
   * https://uvpackmaster.com/uvpackmaster-for-blender/
+* [Cablerator](https://blendermarket.com/products/cbl)
+  * https://cablerator.readthedocs.io/en/latest/
+* [Simply Wrap Pro](https://blendermarket.com/products/simply-wrap-pro)
+  * https://docs.google.com/document/d/16w821qXdOfapPxY1jmEyRWCE7Oak_241MvNq2vyzseY/edit
 
 ## リトポ関連
 * [EdgeFlow](https://github.com/BenjaminSauder/EdgeFlow)
