@@ -27,6 +27,7 @@ draft: falsel
     * wlan0: B8:27:EB:XX:XX:84
     * 2021-05-07-raspios-buster-armhf-lite.img
     * Node-RED
+    * (非公開discord bot)
     * 常時稼働
   * Raspberry Pi 3 B(192.168.11.14)
     * hostname: ubuntu
