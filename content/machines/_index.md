@@ -19,21 +19,23 @@ draft: falsel
     * hostname: allocator
     * eth0: B8:27:EB:XX:XX:44
     * 2021-05-07-raspios-buster-armhf-lite.img
-    * リバースプロキシ
     * 常時稼働
+    * リバースプロキシ
   * Raspberry Pi 3 B(192.168.11.12)
     * hostname: automation
     * eth0: B8:27:EB:XX:XX:D1
     * wlan0: B8:27:EB:XX:XX:84
     * 2021-05-07-raspios-buster-armhf-lite.img
+    * 常時稼働
     * Node-RED
     * (非公開discord bot)
-    * 常時稼働
   * Raspberry Pi 3 B(192.168.11.14)
-    * hostname: ubuntu
+    * hostname: general
     * eth0: B8:27:EB:XX:XX:49
     * wlan0: B8:27:EB:XX:XX:1C
     * 2021-10-30-raspios-bullseye-armhf-lite.img
+    * 常時稼働
+    * nginx + php8.0-fpm
   * Raspberry Pi 4B 8GB(192.168.11.19)
     * hostname: power
     * eth0: DC:A6:32:XX:XX:20
