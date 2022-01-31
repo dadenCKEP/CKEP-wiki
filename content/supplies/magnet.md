@@ -22,3 +22,9 @@ draft: false
     * 16*? ? 2個
     * 13*? 240[mT] 4個
     * 6*3 280[mT] 8個
+
+## ハイキューパーツ
+* URL: https://www.hiqparts.com/products/list?category_id=8
+
+## サンギョウサプライ
+* URL: https://www.e-sangyo.jp/neo/neo.html
