@@ -131,3 +131,6 @@ draft: false
 * Touch Portal
   * https://www.touch-portal.com/
   * スマホをStream Deckみたいにするツール。
+* リンク作成シェル拡張 Ver.1.55 for Windows
+  * https://github.com/kobake/lnhdr
+  * エクスプローラ上にてシンボリックリンク関連の機能を拡張するツール。
