@@ -13,7 +13,7 @@ draft: false
   * IKEAのLACKというサイドテーブルを2-3個使って棚+エンクロージャを作れる。
 
 ## 主な調達先
-※フィラメント関連は該当ページへ
+※フィラメント関連は該当ページへ →[Filament](/digital_fabrication/3d_printer/filament)
 * E3D-Online
   * https://e3d-online.com/
   * V6エクストルーダーとそのスペア部品がある
