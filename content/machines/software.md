@@ -61,7 +61,7 @@ draft: false
   * NASに各種素材があるので再インポートが必要
 * Marvelous Designer
   * Steamから導入
-* Bleder
+* Blender
   * Steamから導入
   * [プラグインリスト](/3d/blender/plugin/)
 
@@ -103,6 +103,7 @@ draft: false
   * https://imagemagick.org/script/download.php
   * コマンドラインから使用できる万能の画像加工ツール
   * 旧コマンドは面倒なことになるので辞めよう。
+  * ffmpegを内蔵しているのでffmpegを同時に使用する場合はパスを通す順番に注意
 * Media Player Classic Black Edition
   * https://sourceforge.net/projects/mpcbe/
   * Media Player Classicの後継。多機能。
@@ -134,3 +135,10 @@ draft: false
 * リンク作成シェル拡張 Ver.1.55 for Windows
   * https://github.com/kobake/lnhdr
   * エクスプローラ上にてシンボリックリンク関連の機能を拡張するツール。
+* yt-dlp
+  * https://github.com/yt-dlp/yt-dlp
+  * youtube-dlのフォーク。youtube-dlの最新版を取り込みながら多数のパッチを当てている。
+  * ffmpegを使用するので導入しておくとよい。
+* ffmpeg
+  * https://www.ffmpeg.org/
+  * 動画と音声を扱う汎用ソフト。
