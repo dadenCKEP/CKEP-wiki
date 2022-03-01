@@ -17,6 +17,7 @@ https://daden.ckep.info/project/helix-ckep/
 | 名称 | 購入先 | 単価 | 個数 |
 | -------- | -------- | -------- | -------- |
 | Helix PCB | 遊舎工房 | 800 | 2 |
+| アクリルプレート | elecrow | ? | ? |
 | OLEDモジュール | 遊舎工房 | 700 | 2 |
 | フルカラーシリアルLEDテープ 6個タイプ | 遊舎工房 | 500 | 2 |
 | MX1A-C1NN | ジェイダブルショップ | 770 | 7 |
@@ -33,6 +34,10 @@ https://daden.ckep.info/project/helix-ckep/
 ### SU120 Custom
 SU120を使用してHelixの改良版みたいなのを作成
 構成が定まったらオリジナルの基板を起こしたい
+#### Document
+* su120-keyboard(GitHub): https://github.com/e3w2q/su120-keyboard
+* su120-keyboard-doc(GitHub): https://github.com/e3w2q/su120-keyboard-doc
+
 #### BOM
 | 名称 | 購入先 | 単価 | 個数 |
 | -------- | -------- | -------- | -------- |
