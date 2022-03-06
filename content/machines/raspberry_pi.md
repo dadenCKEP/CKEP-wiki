@@ -71,10 +71,10 @@ Raspberry Piのn回目のセットアップ用簡易ガイド
   * 参考1: https://curecode.jp/tech/raspberrypi-ramdisk/
   * 参考2: [https://www.angelcurio.com/raspberrypi/Raspberry Pi/各種設定/log,tmpのオンメモリ(tmpfs)化](https://www.angelcurio.com/raspberrypi/?Raspberry%20Pi/%E5%90%84%E7%A8%AE%E8%A8%AD%E5%AE%9A/log%2Ctmp%E3%81%AE%E3%82%AA%E3%83%B3%E3%83%A1%E3%83%A2%E3%83%AA%28tmpfs%29%E5%8C%96)
 * 鍵交換
-## セットアップ編(Ubuntu)
-64bit版がある。  
-https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi
 
+## セットアップ編(Ubuntu)
+64bit版がある。: https://ubuntu.com/download/raspberry-pi
+手順: https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi
 
 ## オプション編
 * m2xに本体温度を送信するスクリプト(`m2x.sh`)を`/home/daden/bin`に置いてcronを設定
