@@ -73,8 +73,9 @@ Raspberry Piのn回目のセットアップ用簡易ガイド
 * 鍵交換
 
 ## セットアップ編(Ubuntu)
-64bit版がある。: https://ubuntu.com/download/raspberry-pi
-手順: https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi
+64bit版がある。: https://ubuntu.com/download/raspberry-pi  
+手順: https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi  
+以降の手順は上を参考にする。(アップデート・ユーザ作成等。ubuntuはapt-getではなくaptを使う方がいいらしい。)
 
 ## オプション編
 * m2xに本体温度を送信するスクリプト(`m2x.sh`)を`/home/daden/bin`に置いてcronを設定
