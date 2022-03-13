@@ -39,7 +39,7 @@ draft: falsel
   * Raspberry Pi 4B 8GB(192.168.11.19)
     * hostname: power
     * eth0: DC:A6:32:XX:XX:20
-    * ubuntu-20.04.3-preinstalled-server-arm64+raspi.img
+    * ubuntu-20.04.4-preinstalled-server-arm64+raspi.img
     * 常時稼働
     * InfluxDB
     * Grafana
