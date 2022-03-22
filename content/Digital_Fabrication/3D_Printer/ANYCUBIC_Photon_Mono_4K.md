@@ -16,3 +16,9 @@ draft: false
 * Lychee Slicer
   * https://mango3d.io/
   * 有料(無料版あり)
+
+## レジンの保温について
+* ヨーグルトメーカーがいいらしい(未検証)
+  * https://www.amazon.co.jp/dp/B07FR45RTQ?tag=daden-22
+    * 上記のリンクはAmazon.co.jpアソシエイトを使用しています。
+    * メインで使用するレジンのボトルが収まるか要確認
