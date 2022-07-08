@@ -12,6 +12,9 @@ draft: false
 * Stirling
   * https://www.vector.co.jp/soft/win95/util/se079072.html
   * バイナリエディタ。
+* ImHex
+  * https://github.com/WerWolv/ImHex
+  * 高機能バイナリエディタ。
 
 ## Git関連
 * Git for Windows
