@@ -86,6 +86,9 @@ draft: false
 * PowerToys
   * https://github.com/microsoft/PowerToys/releases
   * 複合ツール。FancyZonesやPowerRename、PowerToys Runが便利。
+* DevToys
+  * https://github.com/veler/DevToys
+  * 複合ツール。デベロッパーのためのスイスアーミーナイフ、というキャッチフレーズの通り、PowerToysより開発者向けのツールが多い。
 * FastCopy
   * https://fastcopy.jp/
   * ファイルコピー・バックアップ・削除ツール。デバイスごとのチューニングがある他、ベリファイや時間予測も可能。
