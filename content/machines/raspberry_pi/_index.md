@@ -20,24 +20,25 @@ Raspberry Piのn回目のセットアップ用簡易ガイド
 * Raspberry Pi 4とか3とかはバリエーションが多いためそのうち追記
 
 ### 周辺
-* 追加購入
-    * ヒートシンク: http://www.aitendo.com/product-list/1141/0/photo?num=100&img=120&available=1&sort=featured  
-        * Raspberry Pi 3のSoCが14mm,RAMが12mm,LANコントローラが9mm
-        * Raspberry Pi 4については要調査
-    * ACアダプタ  
-    ※注意: いっぱい余剰あるよ！！！買う前に確認して！！！
-        * 安いほう: http://akizukidenshi.com/catalog/g/gM-10660/
-        * 高いほう: http://akizukidenshi.com/catalog/g/gM-06238/
-        * 分岐ケーブル(安いほう): https://akizukidenshi.com/catalog/g/gC-06723/
-        * 分岐ケーブル(高いほう): https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0A6P
-    * 拡張基板: http://akizukidenshi.com/catalog/g/gP-11073/
-        * ピンソケット: http://akizukidenshi.com/catalog/g/gC-00085/  
-        スタック用もあるらしい: http://akizukidenshi.com/catalog/g/gC-10702/
-        * DCジャック: http://akizukidenshi.com/catalog/g/gC-09408/
-    * スタック用のスペーサー: M2.6
-        * ピンヘッダ+ピンソケットが11
-        * 千石電商にあるのはこれだけ: https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-4UUR
-        * それ以外は廣杉計器から直接買う (例: https://www.hirosugi-net.co.jp/shop/g/g514/)
+* ヒートシンク: http://www.aitendo.com/product-list/1141/0/photo?num=100&img=120&available=1&sort=featured  
+    * Raspberry Pi 3のSoCが14mm,RAMが12mm,LANコントローラが9mm
+    * Raspberry Pi 4については要調査
+* ACアダプタ  
+※注意: いっぱい余剰あるよ！！！買う前に確認して！！！
+    * 安いほう: http://akizukidenshi.com/catalog/g/gM-10660/
+    * 高いほう: http://akizukidenshi.com/catalog/g/gM-06238/
+    * 分岐ケーブル(安いほう): https://akizukidenshi.com/catalog/g/gC-06723/
+    * 分岐ケーブル(高いほう): https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0A6P
+* 拡張基板: http://akizukidenshi.com/catalog/g/gP-11073/
+    * ピンソケット: http://akizukidenshi.com/catalog/g/gC-00085/  
+    スタック用もあるらしい: http://akizukidenshi.com/catalog/g/gC-10702/
+    * DCジャック: http://akizukidenshi.com/catalog/g/gC-09408/
+* スタック用のスペーサー: M2.6
+    * ピンヘッダ+ピンソケットが11
+    * 千石電商にあるのはこれだけ: https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-4UUR
+    * それ以外は廣杉計器から直接買う (例: https://www.hirosugi-net.co.jp/shop/g/g514/)
+* Raspberry Pi公式LCDタッチディスプレイ
+    * セットアップガイド: https://www.raspberrypi.com/documentation/accessories/display.html
 
 適当にはんだ付けして利用。Raspberry Pi2-4まで同じようにできるはず。
 
