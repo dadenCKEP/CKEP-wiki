@@ -13,18 +13,25 @@ draft: false
 * 電源
   * CORSAIR RM850x
 * マザーボード
-  * ASRock Z170 Pro4S
+  * ROG STRIX B550-A GAMING
 * CPU
-  * Intel Core i7 6700K
+  * AMD Ryzen 7 5800X3D
 * HDD
   * TOSHIBA MN04ACA400
     * SATA ATA8-ACS
     * 4000.7GB
     * 書き込み時多少うるさい
   * WDC WD2002FYPS-01U1B0
+    * 処分済
     * SATA ATA8-ACS
-    * 200.3GB
+    * 2000.3GB
+  * WD Blue (5400 RPM Class)
+    * WD20EZRZ
+    * 2TB
 * SSD
+  * KINGMAX KMAX3480-2000G
+    * M.2 2280 NVMe PCIe Gen3x4
+    * 2000GB
   * WDC WDS500G2B0C-00PXH0
     * NVMe NVM Express 1.4
     * 500.1GB
@@ -33,6 +40,7 @@ draft: false
     * NVMe NVM Express 1.0/1.1
     * 256.0GB
   * P3-512
+    * 取り外し中
     * SATA ACS-4
     * 512.1GB
 * メモリ

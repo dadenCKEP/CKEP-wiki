@@ -71,6 +71,7 @@ draft: falsel
     * ランプ1(メインルーム/室内中央)
     * ランプ2(メインルーム/電気スタンド)
   * メインPC(192.168.11.30)
+    * hostname: main-machine
   * Google Nest Hub
   * Nature Remo mini
   * OctoPrint(192.168.11.210)

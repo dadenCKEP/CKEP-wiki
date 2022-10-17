@@ -11,7 +11,7 @@ URL: https://www.jp.netgear.com/home/products/connected-storage/RN212.aspx
 * WD Blue (5400 RPM Class) 4TB
   * WD40EZRZ
   * 20201124製造
-* WD Blue (5400 RPM Class) 4TB
+* WD Blue (5400 RPM Class) 6TB
   * WD60EZAZ-RT
   * 20220413製造
 
