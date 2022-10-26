@@ -35,6 +35,8 @@ draft: false
   * WDC WDS500G2B0C-00PXH0
     * NVMe NVM Express 1.4
     * 500.1GB
+    * M/Bと相性が悪くスリープ時に復帰できない問題が発生していたが  
+      ファームウェアを更新したら直った。
   * SAMSUNG MZVPV256HDGL-00000
     * 寿命の為取り外して保管中
     * NVMe NVM Express 1.0/1.1
