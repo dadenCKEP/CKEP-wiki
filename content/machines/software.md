@@ -148,3 +148,9 @@ draft: false
 * ffmpeg
   * https://www.ffmpeg.org/
   * 動画と音声を扱う汎用ソフト。
+* drawio-desktop
+  * https://github.com/jgraph/drawio-desktop
+  * https://www.diagrams.net/
+  * 図を作成するツールであるdraw.ioのデスクトップ版。
+  * オリジナルであるブラウザ版やChrome拡張版、VSCode拡張まである。
+  * ファイルがテキストベースなので扱いやすい。
