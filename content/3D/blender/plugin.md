@@ -58,6 +58,9 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
   * http://www.mesh-online.net/voxel.html
 * [Uvpackmaster 2](https://blendermarket.com/products/uvpackmaster2)
   * https://uvpackmaster.com/uvpackmaster-for-blender/
+  * 終売 下記のUvpackmaster 3へ15ドルほどでアップグレード可能(詳細は3の商品ページ内)
+* [Uvpackmaster 3](https://blendermarket.com/products/uvpackmaster)
+  * https://uvpackmaster.com/
 * [Cablerator](https://blendermarket.com/products/cbl)
   * https://cablerator.readthedocs.io/en/latest/
 * [Simply Wrap Pro](https://blendermarket.com/products/simply-wrap-pro)
