@@ -22,6 +22,10 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
   * (自分で2.8対応)
   * 同等の機能は後述の`Blender-CM3D2-Converter`にもある。
 
+## リギング関連
+* [Mixamo add-on for Blender](https://substance3d.adobe.com/plugins/mixamo-in-blender/)
+  * Adobeの[Mixamo](https://www.mixamo.com/)をBlenderに統合するプラグイン。
+
 ## テクスチャ関連
 * [TexTools](http://renderhjs.net/textools/blender/)
   * 非公式2.8対応版: https://github.com/SavMartin/TexTools-Blender (OSSだし非公式とは…)
@@ -65,6 +69,12 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
   * https://cablerator.readthedocs.io/en/latest/
 * [Simply Wrap Pro](https://blendermarket.com/products/simply-wrap-pro)
   * https://docs.google.com/document/d/16w821qXdOfapPxY1jmEyRWCE7Oak_241MvNq2vyzseY/edit
+* [Random Flow](https://blendermarket.com/products/random-flow)
+  * ハードサーフェス用のランダムメッシュジェネレータ
+* [Fluent](https://blendermarket.com/products/fluent)
+  * ハードサーフェス用の総合モデリングツール
+* [Conform Object](https://blendermarket.com/products/conform-object)
+  * オブジェクトを表面に沿うように変形・配置できるアドオン。
 
 ## リトポ関連
 * [EdgeFlow](https://github.com/BenjaminSauder/EdgeFlow)
