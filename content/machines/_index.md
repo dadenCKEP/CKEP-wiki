@@ -62,6 +62,10 @@ draft: falsel
     * hostname: ubuntu-game
     * ゲームサーバー用。元メインPCだったもの。
     * [Minecraft advanced_vanilla](/games/minecraft/advanced_vanilla)
+  * Orange Pi 5 16GB(192.168.11.21)
+    * hostname: orangepi
+    * end1: 46:B8:53:XX:XX:FE
+    * 用途未定 ゲームサーバー用？
 * NAS
   * [ReadyNAS 212](/machines/readynas212)(192.168.11.51)  
     * 各種バックアップ用
