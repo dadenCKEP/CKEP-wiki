@@ -7,7 +7,7 @@ draft: false
 Blenderで使っているプラグインメモ。バックアップ代わりに。
 
 ## Cats関連
-* [cats-blender-plugin](https://github.com/michaeldegroot/cats-blender-plugin/)  
+* [Cats Blender Plugin](https://github.com/michaeldegroot/cats-blender-plugin/)  
     アバター最適化等
   * [mmd_tools](https://github.com/sugiany/blender_mmd_tools)  
     MMD関連ファイルの扱いに必要
@@ -16,6 +16,8 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
     マテリアル統合に必要
   * [VRM_IMPORTER_for_Blender](https://github.com/saturday06/VRM_IMPORTER_for_Blender)  
     VRMインポートに必要(catsの対応は0.17.0の1つ後から)
+* [Tuxedo Blender Plugin](https://github.com/feilen/tuxedo-blender-plugin)
+  * Cats Blender Plugin内のbake機能を取り出したアドオン
 
 ## ウェイト関連
 * [Blenderでウェイトのない頂点グループをすべて削除する](https://scrapbox.io/keroxp/Blender%E3%81%A7%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%81%AE%E3%81%AA%E3%81%84%E9%A0%82%E7%82%B9%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%92%E3%81%99%E3%81%B9%E3%81%A6%E5%89%8A%E9%99%A4%E3%81%99%E3%82%8B)
@@ -65,6 +67,7 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
   * 終売 下記のUvpackmaster 3へ15ドルほどでアップグレード可能(詳細は3の商品ページ内)
 * [Uvpackmaster 3](https://blendermarket.com/products/uvpackmaster)
   * https://uvpackmaster.com/
+  * Zen Uvのデータに一部対応
 * [Cablerator](https://blendermarket.com/products/cbl)
   * https://cablerator.readthedocs.io/en/latest/
 * [Simply Wrap Pro](https://blendermarket.com/products/simply-wrap-pro)
@@ -75,6 +78,8 @@ Blenderで使っているプラグインメモ。バックアップ代わりに�
   * ハードサーフェス用の総合モデリングツール
 * [Conform Object](https://blendermarket.com/products/conform-object)
   * オブジェクトを表面に沿うように変形・配置できるアドオン。
+* [Zen UV](https://blendermarket.com/products/zen-uv)
+  * UV展開補助
 
 ## リトポ関連
 * [EdgeFlow](https://github.com/BenjaminSauder/EdgeFlow)
